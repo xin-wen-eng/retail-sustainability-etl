@@ -1,0 +1,1801 @@
+trans_date,wh_name,prod_name,category,waste_kg,co2_kg
+20251001,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.79,39.6416
+20251001,Seattle Hub,Recycled Plastic Bottle,Beverage,13.64,3.8624
+20251001,Seattle Hub,Bamboo Cutting Board,Kitchen,2.19,2.3925
+20251001,Seattle Hub,Solar Phone Charger,Electronics,-8.41,62.9157
+20251001,Seattle Hub,Compostable Packaging,Packaging,18.42,15.0283
+20251001,Portland DC,Organic Cotton T-Shirt,Apparel,11.87,27.8645
+20251001,Portland DC,Recycled Plastic Bottle,Beverage,19.28,
+20251001,Portland DC,Bamboo Cutting Board,Kitchen,3.91,4.7037
+20251001,Portland DC,Solar Phone Charger,Electronics,7.13,51.3205
+20251001,Portland DC,Compostable Packaging,Packaging,10.99,9.8238
+20251001,Chicago Center,Organic Cotton T-Shirt,Apparel,7.85,19.4965
+20251001,Chicago Center,Recycled Plastic Bottle,Beverage,15.62,5.0264
+20251001,Chicago Center,Bamboo Cutting Board,Kitchen,9.9,10.7292
+20251001,Chicago Center,Solar Phone Charger,Electronics,4.8,44.0832
+20251001,Chicago Center,Compostable Packaging,Packaging,7.39,5.9963
+20251001,Atlanta South,Organic Cotton T-Shirt,Apparel,6.1,14.6335
+20251001,Atlanta South,Recycled Plastic Bottle,Beverage,11.31,2.9566
+20251001,Atlanta South,Bamboo Cutting Board,Kitchen,11.69,12.248
+20251001,Atlanta South,Solar Phone Charger,Electronics,4.21,39.179
+20251001,Atlanta South,Compostable Packaging,Packaging,5.68,4.0518
+20251002,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.44,20.6753
+20251002,Seattle Hub,Recycled Plastic Bottle,Beverage,-19.14,5.7252
+20251002,Seattle Hub,Bamboo Cutting Board,Kitchen,19.18,26.2199
+20251002,Seattle Hub,Solar Phone Charger,Electronics,18.01,176.4144
+20251002,Seattle Hub,Compostable Packaging,Packaging,4.07,3.6002
+20251002,Portland DC,Organic Cotton T-Shirt,Apparel,15.13,32.2004
+20251002,Portland DC,Recycled Plastic Bottle,Beverage,18.82,4.5903
+20251002,Portland DC,Bamboo Cutting Board,Kitchen,15.63,18.4349
+20251002,Portland DC,Solar Phone Charger,Electronics,6.66,45.4786
+20251002,Portland DC,Compostable Packaging,Packaging,2.46,1.8591
+20251002,Chicago Center,Organic Cotton T-Shirt,Apparel,5.63,12.7768
+20251002,Chicago Center,Recycled Plastic Bottle,Beverage,4.09,1.1897
+20251002,Chicago Center,Bamboo Cutting Board,Kitchen,7.62,8.7804
+20251002,Chicago Center,Solar Phone Charger,Electronics,19.6,178.9958
+20251002,Chicago Center,Compostable Packaging,Packaging,16.18,13.2305
+20251002,Atlanta South,Organic Cotton T-Shirt,Apparel,16.1,
+20251002,Atlanta South,Recycled Plastic Bottle,Beverage,8.72,2.2335
+20251002,Atlanta South,Bamboo Cutting Board,Kitchen,10.91,12.127
+20251002,Atlanta South,Solar Phone Charger,Electronics,17.24,120.0285
+20251002,Atlanta South,Compostable Packaging,Packaging,4.7,3.3905
+20251003,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.02,33.9417
+20251003,Seattle Hub,Recycled Plastic Bottle,Beverage,16.3,4.5851
+20251003,Seattle Hub,Bamboo Cutting Board,Kitchen,13.75,17.1968
+20251003,Seattle Hub,Solar Phone Charger,Electronics,11.0,111.4286
+20251003,Seattle Hub,Compostable Packaging,Packaging,10.45,9.2787
+20251003,Portland DC,Organic Cotton T-Shirt,Apparel,12.47,30.723
+20251003,Portland DC,Recycled Plastic Bottle,Beverage,12.99,4.565
+20251003,Portland DC,Bamboo Cutting Board,Kitchen,8.39,11.7074
+20251003,Portland DC,Solar Phone Charger,Electronics,6.61,59.6238
+20251003,Portland DC,Compostable Packaging,Packaging,8.21,7.5865
+20251003,Chicago Center,Organic Cotton T-Shirt,Apparel,15.08,38.0157
+20251003,Chicago Center,Recycled Plastic Bottle,Beverage,17.16,4.3759
+20251003,Chicago Center,Bamboo Cutting Board,Kitchen,15.01,19.8113
+20251003,Chicago Center,Solar Phone Charger,Electronics,2.36,23.5648
+20251003,Chicago Center,Compostable Packaging,Packaging,15.53,12.5432
+20251003,Atlanta South,Organic Cotton T-Shirt,Apparel,12.55,26.1581
+20251003,Atlanta South,Recycled Plastic Bottle,Beverage,4.97,1.6327
+20251003,Atlanta South,Bamboo Cutting Board,Kitchen,10.77,11.2212
+20251003,Atlanta South,Solar Phone Charger,Electronics,18.35,178.7
+20251003,Atlanta South,Compostable Packaging,Packaging,18.73,15.275
+20251004,Seattle Hub,Organic Cotton T-Shirt,Apparel,11.02,28.551
+20251004,Seattle Hub,Recycled Plastic Bottle,Beverage,17.61,5.1456
+20251004,Seattle Hub,Bamboo Cutting Board,Kitchen,18.22,21.7035
+20251004,Seattle Hub,Solar Phone Charger,Electronics,6.5,53.3097
+20251004,Seattle Hub,Compostable Packaging,Packaging,10.7,9.4444
+20251004,Portland DC,Organic Cotton T-Shirt,Apparel,10.93,29.3773
+20251004,Portland DC,Recycled Plastic Bottle,Beverage,6.34,2.1043
+20251004,Portland DC,Bamboo Cutting Board,Kitchen,16.04,19.6192
+20251004,Portland DC,Solar Phone Charger,Electronics,9.02,68.9998
+20251004,Portland DC,Compostable Packaging,Packaging,16.65,11.8313
+20251004,Chicago Center,Organic Cotton T-Shirt,Apparel,10.57,29.5956
+20251004,Chicago Center,Recycled Plastic Bottle,Beverage,5.8,1.8433
+20251004,Chicago Center,Bamboo Cutting Board,Kitchen,4.17,4.1402
+20251004,Chicago Center,Solar Phone Charger,Electronics,9.38,78.2237
+20251004,Chicago Center,Compostable Packaging,Packaging,6.75,4.6486
+20251004,Atlanta South,Organic Cotton T-Shirt,Apparel,19.46,44.4099
+20251004,Atlanta South,Recycled Plastic Bottle,Beverage,-0.66,0.1655
+20251004,Atlanta South,Bamboo Cutting Board,Kitchen,8.69,11.6198
+20251004,Atlanta South,Solar Phone Charger,Electronics,14.09,97.3324
+20251004,Atlanta South,Compostable Packaging,Packaging,3.35,2.4297
+20251005,Seattle Hub,Organic Cotton T-Shirt,Apparel,4.04,11.6986
+20251005,Seattle Hub,Recycled Plastic Bottle,Beverage,0.75,0.2677
+20251005,Seattle Hub,Bamboo Cutting Board,Kitchen,19.51,21.0442
+20251005,Seattle Hub,Solar Phone Charger,Electronics,14.84,105.6529
+20251005,Seattle Hub,Compostable Packaging,Packaging,8.09,7.666
+20251005,Portland DC,Organic Cotton T-Shirt,Apparel,14.7,40.3475
+20251005,Portland DC,Recycled Plastic Bottle,Beverage,9.88,2.7255
+20251005,Portland DC,Bamboo Cutting Board,Kitchen,13.5,19.2668
+20251005,Portland DC,Solar Phone Charger,Electronics,0.79,7.5057
+20251005,Portland DC,Compostable Packaging,Packaging,5.24,4.9781
+20251005,Chicago Center,Organic Cotton T-Shirt,Apparel,13.92,29.9975
+20251005,Chicago Center,Recycled Plastic Bottle,Beverage,10.25,3.3037
+20251005,Chicago Center,Bamboo Cutting Board,Kitchen,15.31,15.1389
+20251005,Chicago Center,Solar Phone Charger,Electronics,10.96,78.5298
+20251005,Chicago Center,Compostable Packaging,Packaging,11.39,9.6392
+20251005,Atlanta South,Organic Cotton T-Shirt,Apparel,14.8,29.916
+20251005,Atlanta South,Recycled Plastic Bottle,Beverage,5.39,1.3191
+20251005,Atlanta South,Bamboo Cutting Board,Kitchen,11.08,13.2433
+20251005,Atlanta South,Solar Phone Charger,Electronics,6.81,57.1532
+20251005,Atlanta South,Compostable Packaging,Packaging,17.28,11.9458
+20251006,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.48,41.8857
+20251006,Seattle Hub,Recycled Plastic Bottle,Beverage,10.37,3.4018
+20251006,Seattle Hub,Bamboo Cutting Board,Kitchen,7.6,9.5585
+20251006,Seattle Hub,Solar Phone Charger,Electronics,19.36,185.5611
+20251006,Seattle Hub,Compostable Packaging,Packaging,15.43,10.6362
+20251006,Portland DC,Organic Cotton T-Shirt,Apparel,6.78,14.2126
+20251006,Portland DC,Recycled Plastic Bottle,Beverage,18.79,4.9124
+20251006,Portland DC,Bamboo Cutting Board,Kitchen,4.24,4.1352
+20251006,Portland DC,Solar Phone Charger,Electronics,10.05,89.6611
+20251006,Portland DC,Compostable Packaging,Packaging,-4.8,4.1746
+20251006,Chicago Center,Organic Cotton T-Shirt,Apparel,13.29,38.9185
+20251006,Chicago Center,Recycled Plastic Bottle,Beverage,12.96,3.6717
+20251006,Chicago Center,Bamboo Cutting Board,Kitchen,16.53,22.1707
+20251006,Chicago Center,Solar Phone Charger,Electronics,10.82,100.5894
+20251006,Chicago Center,Compostable Packaging,Packaging,4.71,3.7974
+20251006,Atlanta South,Organic Cotton T-Shirt,Apparel,8.01,17.5669
+20251006,Atlanta South,Recycled Plastic Bottle,Beverage,18.98,5.8271
+20251006,Atlanta South,Bamboo Cutting Board,Kitchen,15.44,19.0954
+20251006,Atlanta South,Solar Phone Charger,Electronics,8.83,63.1694
+20251006,Atlanta South,Compostable Packaging,Packaging,10.34,8.7932
+20251007,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.7,54.2765
+20251007,Seattle Hub,Recycled Plastic Bottle,Beverage,16.97,4.9125
+20251007,Seattle Hub,Bamboo Cutting Board,Kitchen,6.81,7.3245
+20251007,Seattle Hub,Solar Phone Charger,Electronics,11.23,104.7935
+20251007,Seattle Hub,Compostable Packaging,Packaging,19.22,12.302
+20251007,Portland DC,Organic Cotton T-Shirt,Apparel,0.82,
+20251007,Portland DC,Recycled Plastic Bottle,Beverage,19.7,5.2358
+20251007,Portland DC,Bamboo Cutting Board,Kitchen,18.9,25.6042
+20251007,Portland DC,Solar Phone Charger,Electronics,11.63,101.6867
+20251007,Portland DC,Compostable Packaging,Packaging,3.54,2.5658
+20251007,Chicago Center,Organic Cotton T-Shirt,Apparel,5.5,12.6517
+20251007,Chicago Center,Recycled Plastic Bottle,Beverage,4.74,1.1815
+20251007,Chicago Center,Bamboo Cutting Board,Kitchen,10.02,13.9431
+20251007,Chicago Center,Solar Phone Charger,Electronics,2.36,21.2015
+20251007,Chicago Center,Compostable Packaging,Packaging,7.94,7.0637
+20251007,Atlanta South,Organic Cotton T-Shirt,Apparel,17.66,42.9898
+20251007,Atlanta South,Recycled Plastic Bottle,Beverage,15.52,5.1173
+20251007,Atlanta South,Bamboo Cutting Board,Kitchen,12.86,16.248
+20251007,Atlanta South,Solar Phone Charger,Electronics,6.73,58.6903
+20251007,Atlanta South,Compostable Packaging,Packaging,3.49,2.9859
+20251008,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.18,39.0924
+20251008,Seattle Hub,Recycled Plastic Bottle,Beverage,15.83,4.0804
+20251008,Seattle Hub,Bamboo Cutting Board,Kitchen,15.03,18.3834
+20251008,Seattle Hub,Solar Phone Charger,Electronics,8.97,82.2797
+20251008,Seattle Hub,Compostable Packaging,Packaging,4.36,3.3419
+20251008,Portland DC,Organic Cotton T-Shirt,Apparel,19.94,50.3335
+20251008,Portland DC,Recycled Plastic Bottle,Beverage,8.89,2.8641
+20251008,Portland DC,Bamboo Cutting Board,Kitchen,8.56,9.7184
+20251008,Portland DC,Solar Phone Charger,Electronics,13.28,125.0566
+20251008,Portland DC,Compostable Packaging,Packaging,16.52,14.8167
+20251008,Chicago Center,Organic Cotton T-Shirt,Apparel,18.52,41.3642
+20251008,Chicago Center,Recycled Plastic Bottle,Beverage,14.71,3.6819
+20251008,Chicago Center,Bamboo Cutting Board,Kitchen,12.61,12.9995
+20251008,Chicago Center,Solar Phone Charger,Electronics,7.19,68.5534
+20251008,Chicago Center,Compostable Packaging,Packaging,6.97,6.1113
+20251008,Atlanta South,Organic Cotton T-Shirt,Apparel,15.13,38.5633
+20251008,Atlanta South,Recycled Plastic Bottle,Beverage,14.05,4.4987
+20251008,Atlanta South,Bamboo Cutting Board,Kitchen,10.77,11.6598
+20251008,Atlanta South,Solar Phone Charger,Electronics,14.08,108.7308
+20251008,Atlanta South,Compostable Packaging,Packaging,1.8,1.5324
+20251009,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.52,15.8513
+20251009,Seattle Hub,Recycled Plastic Bottle,Beverage,8.04,2.8749
+20251009,Seattle Hub,Bamboo Cutting Board,Kitchen,18.13,21.6225
+20251009,Seattle Hub,Solar Phone Charger,Electronics,4.38,44.1815
+20251009,Seattle Hub,Compostable Packaging,Packaging,1.28,1.197
+20251009,Portland DC,Organic Cotton T-Shirt,Apparel,15.02,30.316
+20251009,Portland DC,Recycled Plastic Bottle,Beverage,6.4,2.3009
+20251009,Portland DC,Bamboo Cutting Board,Kitchen,1.71,1.8531
+20251009,Portland DC,Solar Phone Charger,Electronics,19.81,198.2994
+20251009,Portland DC,Compostable Packaging,Packaging,7.16,5.4825
+20251009,Chicago Center,Organic Cotton T-Shirt,Apparel,10.65,28.5206
+20251009,Chicago Center,Recycled Plastic Bottle,Beverage,8.64,2.6676
+20251009,Chicago Center,Bamboo Cutting Board,Kitchen,12.3,14.4599
+20251009,Chicago Center,Solar Phone Charger,Electronics,11.83,107.9578
+20251009,Chicago Center,Compostable Packaging,Packaging,13.93,12.921
+20251009,Atlanta South,Organic Cotton T-Shirt,Apparel,18.23,50.498
+20251009,Atlanta South,Recycled Plastic Bottle,Beverage,3.58,0.8883
+20251009,Atlanta South,Bamboo Cutting Board,Kitchen,4.09,5.5746
+20251009,Atlanta South,Solar Phone Charger,Electronics,6.71,67.8237
+20251009,Atlanta South,Compostable Packaging,Packaging,15.04,13.5803
+20251010,Seattle Hub,Organic Cotton T-Shirt,Apparel,3.46,7.5703
+20251010,Seattle Hub,Recycled Plastic Bottle,Beverage,19.73,6.1959
+20251010,Seattle Hub,Bamboo Cutting Board,Kitchen,12.13,12.9893
+20251010,Seattle Hub,Solar Phone Charger,Electronics,15.71,113.9901
+20251010,Seattle Hub,Compostable Packaging,Packaging,13.17,9.2042
+20251010,Portland DC,Organic Cotton T-Shirt,Apparel,3.69,8.2149
+20251010,Portland DC,Recycled Plastic Bottle,Beverage,18.55,6.5671
+20251010,Portland DC,Bamboo Cutting Board,Kitchen,4.46,4.7195
+20251010,Portland DC,Solar Phone Charger,Electronics,9.07,80.7049
+20251010,Portland DC,Compostable Packaging,Packaging,17.81,13.8351
+20251010,Chicago Center,Organic Cotton T-Shirt,Apparel,16.57,45.0737
+20251010,Chicago Center,Recycled Plastic Bottle,Beverage,11.65,3.5456
+20251010,Chicago Center,Bamboo Cutting Board,Kitchen,1.25,1.2656
+20251010,Chicago Center,Solar Phone Charger,Electronics,17.62,134.5367
+20251010,Chicago Center,Compostable Packaging,Packaging,1.27,0.9702
+20251010,Atlanta South,Organic Cotton T-Shirt,Apparel,4.2,10.2461
+20251010,Atlanta South,Recycled Plastic Bottle,Beverage,6.08,1.5807
+20251010,Atlanta South,Bamboo Cutting Board,Kitchen,13.95,19.443
+20251010,Atlanta South,Solar Phone Charger,Electronics,2.26,19.2151
+20251010,Atlanta South,Compostable Packaging,Packaging,17.94,14.6184
+20251011,Seattle Hub,Organic Cotton T-Shirt,Apparel,0.99,2.4291
+20251011,Seattle Hub,Recycled Plastic Bottle,Beverage,17.71,4.442
+20251011,Seattle Hub,Bamboo Cutting Board,Kitchen,14.37,14.9264
+20251011,Seattle Hub,Solar Phone Charger,Electronics,14.27,127.7999
+20251011,Seattle Hub,Compostable Packaging,Packaging,14.67,13.9667
+20251011,Portland DC,Organic Cotton T-Shirt,Apparel,11.23,22.9531
+20251011,Portland DC,Recycled Plastic Bottle,Beverage,17.49,6.0082
+20251011,Portland DC,Bamboo Cutting Board,Kitchen,15.5,15.2618
+20251011,Portland DC,Solar Phone Charger,Electronics,19.24,149.7229
+20251011,Portland DC,Compostable Packaging,Packaging,19.23,12.3289
+20251011,Chicago Center,Organic Cotton T-Shirt,Apparel,10.2,25.4862
+20251011,Chicago Center,Recycled Plastic Bottle,Beverage,10.12,2.6922
+20251011,Chicago Center,Bamboo Cutting Board,Kitchen,-9.12,11.3871
+20251011,Chicago Center,Solar Phone Charger,Electronics,5.92,52.9092
+20251011,Chicago Center,Compostable Packaging,Packaging,4.1,2.6962
+20251011,Atlanta South,Organic Cotton T-Shirt,Apparel,1.13,2.9132
+20251011,Atlanta South,Recycled Plastic Bottle,Beverage,2.21,0.5593
+20251011,Atlanta South,Bamboo Cutting Board,Kitchen,6.05,7.7273
+20251011,Atlanta South,Solar Phone Charger,Electronics,11.46,115.5787
+20251011,Atlanta South,Compostable Packaging,Packaging,1.2,1.0631
+20251012,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.5,45.5143
+20251012,Seattle Hub,Recycled Plastic Bottle,Beverage,9.68,2.4649
+20251012,Seattle Hub,Bamboo Cutting Board,Kitchen,8.57,9.0904
+20251012,Seattle Hub,Solar Phone Charger,Electronics,11.64,117.9108
+20251012,Seattle Hub,Compostable Packaging,Packaging,14.62,12.1862
+20251012,Portland DC,Organic Cotton T-Shirt,Apparel,8.83,25.1461
+20251012,Portland DC,Recycled Plastic Bottle,Beverage,12.65,4.4433
+20251012,Portland DC,Bamboo Cutting Board,Kitchen,14.72,17.648
+20251012,Portland DC,Solar Phone Charger,Electronics,5.04,39.2498
+20251012,Portland DC,Compostable Packaging,Packaging,9.57,8.5647
+20251012,Chicago Center,Organic Cotton T-Shirt,Apparel,12.5,30.1829
+20251012,Chicago Center,Recycled Plastic Bottle,Beverage,16.22,4.3061
+20251012,Chicago Center,Bamboo Cutting Board,Kitchen,5.46,5.4194
+20251012,Chicago Center,Solar Phone Charger,Electronics,15.46,111.1117
+20251012,Chicago Center,Compostable Packaging,Packaging,11.59,10.9785
+20251012,Atlanta South,Organic Cotton T-Shirt,Apparel,16.76,48.9774
+20251012,Atlanta South,Recycled Plastic Bottle,Beverage,1.19,0.305
+20251012,Atlanta South,Bamboo Cutting Board,Kitchen,17.37,24.1451
+20251012,Atlanta South,Solar Phone Charger,Electronics,18.59,129.9529
+20251012,Atlanta South,Compostable Packaging,Packaging,-13.72,11.2183
+20251013,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.97,20.3258
+20251013,Seattle Hub,Recycled Plastic Bottle,Beverage,3.41,1.1624
+20251013,Seattle Hub,Bamboo Cutting Board,Kitchen,10.92,11.3531
+20251013,Seattle Hub,Solar Phone Charger,Electronics,2.78,26.2987
+20251013,Seattle Hub,Compostable Packaging,Packaging,14.34,10.4234
+20251013,Portland DC,Organic Cotton T-Shirt,Apparel,7.75,21.9283
+20251013,Portland DC,Recycled Plastic Bottle,Beverage,3.91,1.114
+20251013,Portland DC,Bamboo Cutting Board,Kitchen,2.31,2.7786
+20251013,Portland DC,Solar Phone Charger,Electronics,3.5,27.8474
+20251013,Portland DC,Compostable Packaging,Packaging,6.55,4.8781
+20251013,Chicago Center,Organic Cotton T-Shirt,Apparel,19.65,49.4423
+20251013,Chicago Center,Recycled Plastic Bottle,Beverage,1.21,0.3467
+20251013,Chicago Center,Bamboo Cutting Board,Kitchen,6.56,6.4362
+20251013,Chicago Center,Solar Phone Charger,Electronics,7.0,68.7626
+20251013,Chicago Center,Compostable Packaging,Packaging,15.04,9.7338
+20251013,Atlanta South,Organic Cotton T-Shirt,Apparel,4.59,10.1005
+20251013,Atlanta South,Recycled Plastic Bottle,Beverage,15.57,4.9907
+20251013,Atlanta South,Bamboo Cutting Board,Kitchen,2.73,3.8766
+20251013,Atlanta South,Solar Phone Charger,Electronics,11.08,96.0397
+20251013,Atlanta South,Compostable Packaging,Packaging,16.18,13.3276
+20251014,Seattle Hub,Organic Cotton T-Shirt,Apparel,17.9,45.4763
+20251014,Seattle Hub,Recycled Plastic Bottle,Beverage,18.11,4.4561
+20251014,Seattle Hub,Bamboo Cutting Board,Kitchen,8.14,10.5677
+20251014,Seattle Hub,Solar Phone Charger,Electronics,13.96,116.0892
+20251014,Seattle Hub,Compostable Packaging,Packaging,4.36,3.8485
+20251014,Portland DC,Organic Cotton T-Shirt,Apparel,18.49,51.1143
+20251014,Portland DC,Recycled Plastic Bottle,Beverage,16.15,5.2299
+20251014,Portland DC,Bamboo Cutting Board,Kitchen,13.07,17.3559
+20251014,Portland DC,Solar Phone Charger,Electronics,3.3,32.4898
+20251014,Portland DC,Compostable Packaging,Packaging,4.08,3.8088
+20251014,Chicago Center,Organic Cotton T-Shirt,Apparel,6.83,16.9897
+20251014,Chicago Center,Recycled Plastic Bottle,Beverage,9.83,3.3569
+20251014,Chicago Center,Bamboo Cutting Board,Kitchen,11.71,14.0967
+20251014,Chicago Center,Solar Phone Charger,Electronics,2.59,22.5095
+20251014,Chicago Center,Compostable Packaging,Packaging,9.49,7.8669
+20251014,Atlanta South,Organic Cotton T-Shirt,Apparel,3.6,8.9365
+20251014,Atlanta South,Recycled Plastic Bottle,Beverage,14.03,4.0931
+20251014,Atlanta South,Bamboo Cutting Board,Kitchen,7.17,9.2721
+20251014,Atlanta South,Solar Phone Charger,Electronics,14.92,137.5697
+20251014,Atlanta South,Compostable Packaging,Packaging,12.12,9.0187
+20251015,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.51,15.6617
+20251015,Seattle Hub,Recycled Plastic Bottle,Beverage,12.13,4.1046
+20251015,Seattle Hub,Bamboo Cutting Board,Kitchen,1.7,1.8096
+20251015,Seattle Hub,Solar Phone Charger,Electronics,15.22,145.4036
+20251015,Seattle Hub,Compostable Packaging,Packaging,9.33,6.8415
+20251015,Portland DC,Organic Cotton T-Shirt,Apparel,4.51,12.9772
+20251015,Portland DC,Recycled Plastic Bottle,Beverage,13.75,4.8155
+20251015,Portland DC,Bamboo Cutting Board,Kitchen,18.34,26.3241
+20251015,Portland DC,Solar Phone Charger,Electronics,10.45,101.1765
+20251015,Portland DC,Compostable Packaging,Packaging,-18.07,17.1616
+20251015,Chicago Center,Organic Cotton T-Shirt,Apparel,19.58,41.3079
+20251015,Chicago Center,Recycled Plastic Bottle,Beverage,8.92,2.7725
+20251015,Chicago Center,Bamboo Cutting Board,Kitchen,8.42,9.8421
+20251015,Chicago Center,Solar Phone Charger,Electronics,3.21,27.8899
+20251015,Chicago Center,Compostable Packaging,Packaging,8.64,6.3272
+20251015,Atlanta South,Organic Cotton T-Shirt,Apparel,0.73,1.9333
+20251015,Atlanta South,Recycled Plastic Bottle,Beverage,13.33,4.7588
+20251015,Atlanta South,Bamboo Cutting Board,Kitchen,16.22,22.268
+20251015,Atlanta South,Solar Phone Charger,Electronics,18.64,166.251
+20251015,Atlanta South,Compostable Packaging,Packaging,16.49,12.5837
+20251016,Seattle Hub,Organic Cotton T-Shirt,Apparel,0.64,1.5988
+20251016,Seattle Hub,Recycled Plastic Bottle,Beverage,5.75,2.0193
+20251016,Seattle Hub,Bamboo Cutting Board,Kitchen,1.24,1.478
+20251016,Seattle Hub,Solar Phone Charger,Electronics,19.25,136.1401
+20251016,Seattle Hub,Compostable Packaging,Packaging,17.26,15.192
+20251016,Portland DC,Organic Cotton T-Shirt,Apparel,10.71,27.9539
+20251016,Portland DC,Recycled Plastic Bottle,Beverage,13.44,4.3041
+20251016,Portland DC,Bamboo Cutting Board,Kitchen,11.8,14.8003
+20251016,Portland DC,Solar Phone Charger,Electronics,0.71,5.924
+20251016,Portland DC,Compostable Packaging,Packaging,6.96,5.2404
+20251016,Chicago Center,Organic Cotton T-Shirt,Apparel,3.77,10.1603
+20251016,Chicago Center,Recycled Plastic Bottle,Beverage,15.81,4.2885
+20251016,Chicago Center,Bamboo Cutting Board,Kitchen,11.67,14.8796
+20251016,Chicago Center,Solar Phone Charger,Electronics,1.03,8.7016
+20251016,Chicago Center,Compostable Packaging,Packaging,15.78,11.372
+20251016,Atlanta South,Organic Cotton T-Shirt,Apparel,5.51,15.1053
+20251016,Atlanta South,Recycled Plastic Bottle,Beverage,14.91,4.7578
+20251016,Atlanta South,Bamboo Cutting Board,Kitchen,15.76,16.9164
+20251016,Atlanta South,Solar Phone Charger,Electronics,1.15,11.6677
+20251016,Atlanta South,Compostable Packaging,Packaging,16.52,15.0008
+20251017,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.97,21.2055
+20251017,Seattle Hub,Recycled Plastic Bottle,Beverage,11.77,4.0138
+20251017,Seattle Hub,Bamboo Cutting Board,Kitchen,16.48,16.2363
+20251017,Seattle Hub,Solar Phone Charger,Electronics,9.79,98.1355
+20251017,Seattle Hub,Compostable Packaging,Packaging,13.83,10.5775
+20251017,Portland DC,Organic Cotton T-Shirt,Apparel,8.98,20.5534
+20251017,Portland DC,Recycled Plastic Bottle,Beverage,6.66,2.0222
+20251017,Portland DC,Bamboo Cutting Board,Kitchen,10.86,12.27
+20251017,Portland DC,Solar Phone Charger,Electronics,13.22,102.1484
+20251017,Portland DC,Compostable Packaging,Packaging,5.48,4.5316
+20251017,Chicago Center,Organic Cotton T-Shirt,Apparel,5.22,13.9473
+20251017,Chicago Center,Recycled Plastic Bottle,Beverage,13.72,4.928
+20251017,Chicago Center,Bamboo Cutting Board,Kitchen,0.67,0.6651
+20251017,Chicago Center,Solar Phone Charger,Electronics,13.87,110.8928
+20251017,Chicago Center,Compostable Packaging,Packaging,1.16,0.9723
+20251017,Atlanta South,Organic Cotton T-Shirt,Apparel,17.93,39.7477
+20251017,Atlanta South,Recycled Plastic Bottle,Beverage,19.18,4.802
+20251017,Atlanta South,Bamboo Cutting Board,Kitchen,15.4,19.5733
+20251017,Atlanta South,Solar Phone Charger,Electronics,2.66,19.7545
+20251017,Atlanta South,Compostable Packaging,Packaging,1.98,1.5545
+20251018,Seattle Hub,Organic Cotton T-Shirt,Apparel,14.0,37.3461
+20251018,Seattle Hub,Recycled Plastic Bottle,Beverage,15.72,4.2959
+20251018,Seattle Hub,Bamboo Cutting Board,Kitchen,19.92,21.5924
+20251018,Seattle Hub,Solar Phone Charger,Electronics,1.85,18.7406
+20251018,Seattle Hub,Compostable Packaging,Packaging,13.09,8.8318
+20251018,Portland DC,Organic Cotton T-Shirt,Apparel,12.47,26.2649
+20251018,Portland DC,Recycled Plastic Bottle,Beverage,1.18,0.2932
+20251018,Portland DC,Bamboo Cutting Board,Kitchen,0.87,
+20251018,Portland DC,Solar Phone Charger,Electronics,1.24,10.0783
+20251018,Portland DC,Compostable Packaging,Packaging,8.13,5.2128
+20251018,Chicago Center,Organic Cotton T-Shirt,Apparel,9.82,23.6064
+20251018,Chicago Center,Recycled Plastic Bottle,Beverage,1.87,0.4995
+20251018,Chicago Center,Bamboo Cutting Board,Kitchen,15.71,15.9956
+20251018,Chicago Center,Solar Phone Charger,Electronics,7.0,54.8073
+20251018,Chicago Center,Compostable Packaging,Packaging,13.12,9.9307
+20251018,Atlanta South,Organic Cotton T-Shirt,Apparel,16.9,46.6517
+20251018,Atlanta South,Recycled Plastic Bottle,Beverage,11.31,4.0275
+20251018,Atlanta South,Bamboo Cutting Board,Kitchen,8.11,8.2012
+20251018,Atlanta South,Solar Phone Charger,Electronics,17.76,147.2152
+20251018,Atlanta South,Compostable Packaging,Packaging,0.99,0.9493
+20251019,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.96,42.1888
+20251019,Seattle Hub,Recycled Plastic Bottle,Beverage,-16.33,5.8133
+20251019,Seattle Hub,Bamboo Cutting Board,Kitchen,7.09,9.2601
+20251019,Seattle Hub,Solar Phone Charger,Electronics,13.25,113.6665
+20251019,Seattle Hub,Compostable Packaging,Packaging,10.96,9.6134
+20251019,Portland DC,Organic Cotton T-Shirt,Apparel,-14.84,36.9352
+20251019,Portland DC,Recycled Plastic Bottle,Beverage,12.56,3.3802
+20251019,Portland DC,Bamboo Cutting Board,Kitchen,12.84,17.902
+20251019,Portland DC,Solar Phone Charger,Electronics,12.42,119.7313
+20251019,Portland DC,Compostable Packaging,Packaging,2.73,2.267
+20251019,Chicago Center,Organic Cotton T-Shirt,Apparel,4.45,10.4012
+20251019,Chicago Center,Recycled Plastic Bottle,Beverage,8.34,2.1225
+20251019,Chicago Center,Bamboo Cutting Board,Kitchen,6.77,9.6341
+20251019,Chicago Center,Solar Phone Charger,Electronics,3.88,27.218
+20251019,Chicago Center,Compostable Packaging,Packaging,3.78,2.8667
+20251019,Atlanta South,Organic Cotton T-Shirt,Apparel,11.85,25.2804
+20251019,Atlanta South,Recycled Plastic Bottle,Beverage,7.83,2.0274
+20251019,Atlanta South,Bamboo Cutting Board,Kitchen,0.64,0.8989
+20251019,Atlanta South,Solar Phone Charger,Electronics,6.03,55.2222
+20251019,Atlanta South,Compostable Packaging,Packaging,2.97,2.0368
+20251020,Seattle Hub,Organic Cotton T-Shirt,Apparel,5.17,11.2424
+20251020,Seattle Hub,Recycled Plastic Bottle,Beverage,14.49,4.5418
+20251020,Seattle Hub,Bamboo Cutting Board,Kitchen,6.37,7.3957
+20251020,Seattle Hub,Solar Phone Charger,Electronics,19.74,199.7903
+20251020,Seattle Hub,Compostable Packaging,Packaging,19.74,15.8396
+20251020,Portland DC,Organic Cotton T-Shirt,Apparel,4.56,9.362
+20251020,Portland DC,Recycled Plastic Bottle,Beverage,16.95,5.922
+20251020,Portland DC,Bamboo Cutting Board,Kitchen,18.49,18.2299
+20251020,Portland DC,Solar Phone Charger,Electronics,5.4,48.0448
+20251020,Portland DC,Compostable Packaging,Packaging,2.54,1.6682
+20251020,Chicago Center,Organic Cotton T-Shirt,Apparel,1.07,2.6909
+20251020,Chicago Center,Recycled Plastic Bottle,Beverage,9.17,2.8388
+20251020,Chicago Center,Bamboo Cutting Board,Kitchen,18.02,19.2892
+20251020,Chicago Center,Solar Phone Charger,Electronics,5.12,41.9985
+20251020,Chicago Center,Compostable Packaging,Packaging,1.93,1.5966
+20251020,Atlanta South,Organic Cotton T-Shirt,Apparel,4.72,12.3165
+20251020,Atlanta South,Recycled Plastic Bottle,Beverage,9.43,2.4829
+20251020,Atlanta South,Bamboo Cutting Board,Kitchen,7.05,6.8766
+20251020,Atlanta South,Solar Phone Charger,Electronics,2.67,22.3821
+20251020,Atlanta South,Compostable Packaging,Packaging,4.79,3.518
+20251021,Seattle Hub,Organic Cotton T-Shirt,Apparel,19.08,55.4384
+20251021,Seattle Hub,Recycled Plastic Bottle,Beverage,4.98,1.4412
+20251021,Seattle Hub,Bamboo Cutting Board,Kitchen,4.72,5.6039
+20251021,Seattle Hub,Solar Phone Charger,Electronics,8.85,86.4365
+20251021,Seattle Hub,Compostable Packaging,Packaging,4.84,4.5341
+20251021,Portland DC,Organic Cotton T-Shirt,Apparel,18.02,43.5682
+20251021,Portland DC,Recycled Plastic Bottle,Beverage,14.8,4.4475
+20251021,Portland DC,Bamboo Cutting Board,Kitchen,16.29,21.0857
+20251021,Portland DC,Solar Phone Charger,Electronics,2.12,19.8442
+20251021,Portland DC,Compostable Packaging,Packaging,4.75,3.5848
+20251021,Chicago Center,Organic Cotton T-Shirt,Apparel,0.81,2.1619
+20251021,Chicago Center,Recycled Plastic Bottle,Beverage,11.62,3.6027
+20251021,Chicago Center,Bamboo Cutting Board,Kitchen,3.2,4.152
+20251021,Chicago Center,Solar Phone Charger,Electronics,-12.72,116.9384
+20251021,Chicago Center,Compostable Packaging,Packaging,8.01,6.8969
+20251021,Atlanta South,Organic Cotton T-Shirt,Apparel,15.18,40.9565
+20251021,Atlanta South,Recycled Plastic Bottle,Beverage,4.54,1.4626
+20251021,Atlanta South,Bamboo Cutting Board,Kitchen,18.68,22.5481
+20251021,Atlanta South,Solar Phone Charger,Electronics,1.51,12.2341
+20251021,Atlanta South,Compostable Packaging,Packaging,7.65,6.4827
+20251022,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.58,33.3164
+20251022,Seattle Hub,Recycled Plastic Bottle,Beverage,13.16,4.3229
+20251022,Seattle Hub,Bamboo Cutting Board,Kitchen,14.21,18.7788
+20251022,Seattle Hub,Solar Phone Charger,Electronics,18.01,153.3034
+20251022,Seattle Hub,Compostable Packaging,Packaging,7.77,6.0977
+20251022,Portland DC,Organic Cotton T-Shirt,Apparel,9.67,24.4835
+20251022,Portland DC,Recycled Plastic Bottle,Beverage,9.31,2.6457
+20251022,Portland DC,Bamboo Cutting Board,Kitchen,19.57,27.083
+20251022,Portland DC,Solar Phone Charger,Electronics,2.2,17.8823
+20251022,Portland DC,Compostable Packaging,Packaging,2.0,1.3855
+20251022,Chicago Center,Organic Cotton T-Shirt,Apparel,3.43,7.5606
+20251022,Chicago Center,Recycled Plastic Bottle,Beverage,8.62,2.7747
+20251022,Chicago Center,Bamboo Cutting Board,Kitchen,8.69,11.4195
+20251022,Chicago Center,Solar Phone Charger,Electronics,0.93,8.8599
+20251022,Chicago Center,Compostable Packaging,Packaging,7.05,5.8176
+20251022,Atlanta South,Organic Cotton T-Shirt,Apparel,9.98,26.6052
+20251022,Atlanta South,Recycled Plastic Bottle,Beverage,9.43,2.9051
+20251022,Atlanta South,Bamboo Cutting Board,Kitchen,15.89,16.9841
+20251022,Atlanta South,Solar Phone Charger,Electronics,16.99,124.1009
+20251022,Atlanta South,Compostable Packaging,Packaging,12.56,8.6846
+20251023,Seattle Hub,Organic Cotton T-Shirt,Apparel,3.92,10.6158
+20251023,Seattle Hub,Recycled Plastic Bottle,Beverage,3.64,0.9247
+20251023,Seattle Hub,Bamboo Cutting Board,Kitchen,9.1,10.3507
+20251023,Seattle Hub,Solar Phone Charger,Electronics,13.48,136.4887
+20251023,Seattle Hub,Compostable Packaging,Packaging,19.52,15.8261
+20251023,Portland DC,Organic Cotton T-Shirt,Apparel,18.66,51.6605
+20251023,Portland DC,Recycled Plastic Bottle,Beverage,3.54,1.2617
+20251023,Portland DC,Bamboo Cutting Board,Kitchen,13.12,14.4565
+20251023,Portland DC,Solar Phone Charger,Electronics,15.21,154.8351
+20251023,Portland DC,Compostable Packaging,Packaging,14.71,13.7558
+20251023,Chicago Center,Organic Cotton T-Shirt,Apparel,9.84,20.0744
+20251023,Chicago Center,Recycled Plastic Bottle,Beverage,0.98,0.3078
+20251023,Chicago Center,Bamboo Cutting Board,Kitchen,6.86,8.5881
+20251023,Chicago Center,Solar Phone Charger,Electronics,15.74,148.0839
+20251023,Chicago Center,Compostable Packaging,Packaging,17.06,14.6146
+20251023,Atlanta South,Organic Cotton T-Shirt,Apparel,8.19,20.3969
+20251023,Atlanta South,Recycled Plastic Bottle,Beverage,1.59,0.5088
+20251023,Atlanta South,Bamboo Cutting Board,Kitchen,-8.84,10.1248
+20251023,Atlanta South,Solar Phone Charger,Electronics,6.51,54.1304
+20251023,Atlanta South,Compostable Packaging,Packaging,17.81,15.6245
+20251024,Seattle Hub,Organic Cotton T-Shirt,Apparel,3.69,10.0663
+20251024,Seattle Hub,Recycled Plastic Bottle,Beverage,8.58,2.9194
+20251024,Seattle Hub,Bamboo Cutting Board,Kitchen,6.41,9.1947
+20251024,Seattle Hub,Solar Phone Charger,Electronics,18.7,
+20251024,Seattle Hub,Compostable Packaging,Packaging,12.96,9.4279
+20251024,Portland DC,Organic Cotton T-Shirt,Apparel,11.57,33.7251
+20251024,Portland DC,Recycled Plastic Bottle,Beverage,6.14,1.8351
+20251024,Portland DC,Bamboo Cutting Board,Kitchen,11.91,14.2583
+20251024,Portland DC,Solar Phone Charger,Electronics,15.93,116.6662
+20251024,Portland DC,Compostable Packaging,Packaging,12.91,8.7754
+20251024,Chicago Center,Organic Cotton T-Shirt,Apparel,4.0,11.6272
+20251024,Chicago Center,Recycled Plastic Bottle,Beverage,15.41,4.6101
+20251024,Chicago Center,Bamboo Cutting Board,Kitchen,7.55,8.9893
+20251024,Chicago Center,Solar Phone Charger,Electronics,13.88,140.3612
+20251024,Chicago Center,Compostable Packaging,Packaging,14.79,9.5486
+20251024,Atlanta South,Organic Cotton T-Shirt,Apparel,3.35,8.2445
+20251024,Atlanta South,Recycled Plastic Bottle,Beverage,1.53,0.4335
+20251024,Atlanta South,Bamboo Cutting Board,Kitchen,1.45,1.595
+20251024,Atlanta South,Solar Phone Charger,Electronics,4.28,38.2431
+20251024,Atlanta South,Compostable Packaging,Packaging,3.76,2.7946
+20251025,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.1,36.5705
+20251025,Seattle Hub,Recycled Plastic Bottle,Beverage,10.92,3.0816
+20251025,Seattle Hub,Bamboo Cutting Board,Kitchen,5.99,7.9896
+20251025,Seattle Hub,Solar Phone Charger,Electronics,3.68,27.7501
+20251025,Seattle Hub,Compostable Packaging,Packaging,16.0,13.1003
+20251025,Portland DC,Organic Cotton T-Shirt,Apparel,17.0,46.1133
+20251025,Portland DC,Recycled Plastic Bottle,Beverage,8.64,3.0233
+20251025,Portland DC,Bamboo Cutting Board,Kitchen,0.84,0.9468
+20251025,Portland DC,Solar Phone Charger,Electronics,9.12,92.6389
+20251025,Portland DC,Compostable Packaging,Packaging,3.86,2.8467
+20251025,Chicago Center,Organic Cotton T-Shirt,Apparel,3.01,8.1097
+20251025,Chicago Center,Recycled Plastic Bottle,Beverage,4.59,1.642
+20251025,Chicago Center,Bamboo Cutting Board,Kitchen,2.68,2.597
+20251025,Chicago Center,Solar Phone Charger,Electronics,4.33,29.9268
+20251025,Chicago Center,Compostable Packaging,Packaging,9.65,8.9815
+20251025,Atlanta South,Organic Cotton T-Shirt,Apparel,0.7,1.4676
+20251025,Atlanta South,Recycled Plastic Bottle,Beverage,11.96,3.1575
+20251025,Atlanta South,Bamboo Cutting Board,Kitchen,3.34,4.4027
+20251025,Atlanta South,Solar Phone Charger,Electronics,7.37,71.5441
+20251025,Atlanta South,Compostable Packaging,Packaging,10.35,6.8503
+20251026,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.81,29.3579
+20251026,Seattle Hub,Recycled Plastic Bottle,Beverage,15.2,3.6559
+20251026,Seattle Hub,Bamboo Cutting Board,Kitchen,18.45,25.2511
+20251026,Seattle Hub,Solar Phone Charger,Electronics,4.11,37.3598
+20251026,Seattle Hub,Compostable Packaging,Packaging,19.64,15.2349
+20251026,Portland DC,Organic Cotton T-Shirt,Apparel,15.35,35.5242
+20251026,Portland DC,Recycled Plastic Bottle,Beverage,10.17,2.8817
+20251026,Portland DC,Bamboo Cutting Board,Kitchen,2.1,2.5137
+20251026,Portland DC,Solar Phone Charger,Electronics,14.86,135.7603
+20251026,Portland DC,Compostable Packaging,Packaging,8.44,8.0618
+20251026,Chicago Center,Organic Cotton T-Shirt,Apparel,17.95,50.3037
+20251026,Chicago Center,Recycled Plastic Bottle,Beverage,0.75,0.2407
+20251026,Chicago Center,Bamboo Cutting Board,Kitchen,10.69,13.7338
+20251026,Chicago Center,Solar Phone Charger,Electronics,14.05,142.2386
+20251026,Chicago Center,Compostable Packaging,Packaging,3.79,2.8667
+20251026,Atlanta South,Organic Cotton T-Shirt,Apparel,16.96,40.7767
+20251026,Atlanta South,Recycled Plastic Bottle,Beverage,10.23,3.3941
+20251026,Atlanta South,Bamboo Cutting Board,Kitchen,15.25,20.5032
+20251026,Atlanta South,Solar Phone Charger,Electronics,13.5,135.4114
+20251026,Atlanta South,Compostable Packaging,Packaging,3.37,2.6471
+20251027,Seattle Hub,Organic Cotton T-Shirt,Apparel,5.0,14.712
+20251027,Seattle Hub,Recycled Plastic Bottle,Beverage,16.69,5.0033
+20251027,Seattle Hub,Bamboo Cutting Board,Kitchen,12.29,13.7272
+20251027,Seattle Hub,Solar Phone Charger,Electronics,15.32,138.6104
+20251027,Seattle Hub,Compostable Packaging,Packaging,9.59,7.0385
+20251027,Portland DC,Organic Cotton T-Shirt,Apparel,11.08,31.1291
+20251027,Portland DC,Recycled Plastic Bottle,Beverage,15.4,5.5268
+20251027,Portland DC,Bamboo Cutting Board,Kitchen,9.28,12.7078
+20251027,Portland DC,Solar Phone Charger,Electronics,3.95,35.7159
+20251027,Portland DC,Compostable Packaging,Packaging,3.7,2.8779
+20251027,Chicago Center,Organic Cotton T-Shirt,Apparel,15.4,39.5604
+20251027,Chicago Center,Recycled Plastic Bottle,Beverage,11.02,3.2661
+20251027,Chicago Center,Bamboo Cutting Board,Kitchen,1.59,1.7274
+20251027,Chicago Center,Solar Phone Charger,Electronics,13.69,128.7681
+20251027,Chicago Center,Compostable Packaging,Packaging,12.01,8.1791
+20251027,Atlanta South,Organic Cotton T-Shirt,Apparel,11.89,32.8782
+20251027,Atlanta South,Recycled Plastic Bottle,Beverage,8.85,3.1774
+20251027,Atlanta South,Bamboo Cutting Board,Kitchen,5.26,5.642
+20251027,Atlanta South,Solar Phone Charger,Electronics,13.92,135.7812
+20251027,Atlanta South,Compostable Packaging,Packaging,11.0,7.1716
+20251028,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.54,25.5192
+20251028,Seattle Hub,Recycled Plastic Bottle,Beverage,0.93,0.2585
+20251028,Seattle Hub,Bamboo Cutting Board,Kitchen,2.41,2.8785
+20251028,Seattle Hub,Solar Phone Charger,Electronics,10.19,97.4057
+20251028,Seattle Hub,Compostable Packaging,Packaging,6.34,6.0244
+20251028,Portland DC,Organic Cotton T-Shirt,Apparel,19.5,40.4688
+20251028,Portland DC,Recycled Plastic Bottle,Beverage,5.67,1.5631
+20251028,Portland DC,Bamboo Cutting Board,Kitchen,12.68,18.0032
+20251028,Portland DC,Solar Phone Charger,Electronics,12.04,93.0625
+20251028,Portland DC,Compostable Packaging,Packaging,8.83,6.6326
+20251028,Chicago Center,Organic Cotton T-Shirt,Apparel,10.34,23.7811
+20251028,Chicago Center,Recycled Plastic Bottle,Beverage,8.58,2.3179
+20251028,Chicago Center,Bamboo Cutting Board,Kitchen,11.18,15.46
+20251028,Chicago Center,Solar Phone Charger,Electronics,4.14,35.1788
+20251028,Chicago Center,Compostable Packaging,Packaging,18.79,13.6366
+20251028,Atlanta South,Organic Cotton T-Shirt,Apparel,17.13,49.7941
+20251028,Atlanta South,Recycled Plastic Bottle,Beverage,1.67,0.441
+20251028,Atlanta South,Bamboo Cutting Board,Kitchen,15.06,19.9915
+20251028,Atlanta South,Solar Phone Charger,Electronics,17.27,170.9362
+20251028,Atlanta South,Compostable Packaging,Packaging,5.71,4.1789
+20251029,Seattle Hub,Organic Cotton T-Shirt,Apparel,5.1,11.4163
+20251029,Seattle Hub,Recycled Plastic Bottle,Beverage,16.04,4.4473
+20251029,Seattle Hub,Bamboo Cutting Board,Kitchen,8.73,12.1759
+20251029,Seattle Hub,Solar Phone Charger,Electronics,1.07,10.1488
+20251029,Seattle Hub,Compostable Packaging,Packaging,13.06,8.5349
+20251029,Portland DC,Organic Cotton T-Shirt,Apparel,1.58,4.5765
+20251029,Portland DC,Recycled Plastic Bottle,Beverage,1.74,0.617
+20251029,Portland DC,Bamboo Cutting Board,Kitchen,17.77,20.4446
+20251029,Portland DC,Solar Phone Charger,Electronics,5.1,44.5807
+20251029,Portland DC,Compostable Packaging,Packaging,13.45,11.1061
+20251029,Chicago Center,Organic Cotton T-Shirt,Apparel,10.18,21.2787
+20251029,Chicago Center,Recycled Plastic Bottle,Beverage,6.61,2.2466
+20251029,Chicago Center,Bamboo Cutting Board,Kitchen,15.01,21.1497
+20251029,Chicago Center,Solar Phone Charger,Electronics,4.68,36.1926
+20251029,Chicago Center,Compostable Packaging,Packaging,1.59,1.289
+20251029,Atlanta South,Organic Cotton T-Shirt,Apparel,11.14,27.5699
+20251029,Atlanta South,Recycled Plastic Bottle,Beverage,15.79,4.0642
+20251029,Atlanta South,Bamboo Cutting Board,Kitchen,6.51,8.2663
+20251029,Atlanta South,Solar Phone Charger,Electronics,14.92,141.9847
+20251029,Atlanta South,Compostable Packaging,Packaging,13.6,9.805
+20251030,Seattle Hub,Organic Cotton T-Shirt,Apparel,14.16,41.1087
+20251030,Seattle Hub,Recycled Plastic Bottle,Beverage,-5.11,1.4977
+20251030,Seattle Hub,Bamboo Cutting Board,Kitchen,18.59,26.0372
+20251030,Seattle Hub,Solar Phone Charger,Electronics,15.26,119.1995
+20251030,Seattle Hub,Compostable Packaging,Packaging,9.06,6.718
+20251030,Portland DC,Organic Cotton T-Shirt,Apparel,15.89,36.1344
+20251030,Portland DC,Recycled Plastic Bottle,Beverage,10.09,3.3139
+20251030,Portland DC,Bamboo Cutting Board,Kitchen,8.74,12.2439
+20251030,Portland DC,Solar Phone Charger,Electronics,5.59,39.2734
+20251030,Portland DC,Compostable Packaging,Packaging,11.18,8.3242
+20251030,Chicago Center,Organic Cotton T-Shirt,Apparel,13.01,28.4105
+20251030,Chicago Center,Recycled Plastic Bottle,Beverage,0.56,0.1478
+20251030,Chicago Center,Bamboo Cutting Board,Kitchen,2.66,2.8723
+20251030,Chicago Center,Solar Phone Charger,Electronics,13.16,95.3089
+20251030,Chicago Center,Compostable Packaging,Packaging,18.82,14.7639
+20251030,Atlanta South,Organic Cotton T-Shirt,Apparel,3.88,10.0609
+20251030,Atlanta South,Recycled Plastic Bottle,Beverage,2.15,0.6108
+20251030,Atlanta South,Bamboo Cutting Board,Kitchen,16.78,20.703
+20251030,Atlanta South,Solar Phone Charger,Electronics,11.39,101.1524
+20251030,Atlanta South,Compostable Packaging,Packaging,9.52,6.8903
+20251031,Seattle Hub,Organic Cotton T-Shirt,Apparel,12.55,32.6349
+20251031,Seattle Hub,Recycled Plastic Bottle,Beverage,-3.82,1.1768
+20251031,Seattle Hub,Bamboo Cutting Board,Kitchen,15.58,21.8989
+20251031,Seattle Hub,Solar Phone Charger,Electronics,4.88,36.5546
+20251031,Seattle Hub,Compostable Packaging,Packaging,5.69,5.0007
+20251031,Portland DC,Organic Cotton T-Shirt,Apparel,4.53,10.0365
+20251031,Portland DC,Recycled Plastic Bottle,Beverage,4.19,1.0963
+20251031,Portland DC,Bamboo Cutting Board,Kitchen,19.53,20.9563
+20251031,Portland DC,Solar Phone Charger,Electronics,11.87,106.8371
+20251031,Portland DC,Compostable Packaging,Packaging,17.49,16.6471
+20251031,Chicago Center,Organic Cotton T-Shirt,Apparel,7.98,19.3379
+20251031,Chicago Center,Recycled Plastic Bottle,Beverage,11.36,2.7974
+20251031,Chicago Center,Bamboo Cutting Board,Kitchen,7.41,9.2704
+20251031,Chicago Center,Solar Phone Charger,Electronics,-14.34,136.9972
+20251031,Chicago Center,Compostable Packaging,Packaging,7.93,7.5558
+20251031,Atlanta South,Organic Cotton T-Shirt,Apparel,17.9,36.5361
+20251031,Atlanta South,Recycled Plastic Bottle,Beverage,10.11,2.8379
+20251031,Atlanta South,Bamboo Cutting Board,Kitchen,14.35,16.758
+20251031,Atlanta South,Solar Phone Charger,Electronics,19.58,166.3774
+20251031,Atlanta South,Compostable Packaging,Packaging,7.53,5.8555
+20251101,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.68,48.8176
+20251101,Seattle Hub,Recycled Plastic Bottle,Beverage,3.72,1.2217
+20251101,Seattle Hub,Bamboo Cutting Board,Kitchen,11.34,15.9097
+20251101,Seattle Hub,Solar Phone Charger,Electronics,4.18,29.1995
+20251101,Seattle Hub,Compostable Packaging,Packaging,3.69,2.9132
+20251101,Portland DC,Organic Cotton T-Shirt,Apparel,10.15,24.7814
+20251101,Portland DC,Recycled Plastic Bottle,Beverage,9.43,2.3905
+20251101,Portland DC,Bamboo Cutting Board,Kitchen,7.32,7.743
+20251101,Portland DC,Solar Phone Charger,Electronics,15.12,145.1028
+20251101,Portland DC,Compostable Packaging,Packaging,-4.64,4.4514
+20251101,Chicago Center,Organic Cotton T-Shirt,Apparel,4.02,11.7401
+20251101,Chicago Center,Recycled Plastic Bottle,Beverage,2.34,0.6539
+20251101,Chicago Center,Bamboo Cutting Board,Kitchen,2.88,3.2812
+20251101,Chicago Center,Solar Phone Charger,Electronics,6.81,46.9766
+20251101,Chicago Center,Compostable Packaging,Packaging,9.86,8.293
+20251101,Atlanta South,Organic Cotton T-Shirt,Apparel,6.92,14.1434
+20251101,Atlanta South,Recycled Plastic Bottle,Beverage,18.97,6.8288
+20251101,Atlanta South,Bamboo Cutting Board,Kitchen,3.02,4.1506
+20251101,Atlanta South,Solar Phone Charger,Electronics,16.06,149.8225
+20251101,Atlanta South,Compostable Packaging,Packaging,2.3,1.6598
+20251102,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.28,16.7298
+20251102,Seattle Hub,Recycled Plastic Bottle,Beverage,8.35,2.6525
+20251102,Seattle Hub,Bamboo Cutting Board,Kitchen,6.32,8.4974
+20251102,Seattle Hub,Solar Phone Charger,Electronics,18.12,160.3973
+20251102,Seattle Hub,Compostable Packaging,Packaging,7.67,5.3994
+20251102,Portland DC,Organic Cotton T-Shirt,Apparel,5.74,14.926
+20251102,Portland DC,Recycled Plastic Bottle,Beverage,7.68,2.0149
+20251102,Portland DC,Bamboo Cutting Board,Kitchen,10.51,14.9996
+20251102,Portland DC,Solar Phone Charger,Electronics,14.42,143.6848
+20251102,Portland DC,Compostable Packaging,Packaging,2.14,1.6902
+20251102,Chicago Center,Organic Cotton T-Shirt,Apparel,6.36,18.9794
+20251102,Chicago Center,Recycled Plastic Bottle,Beverage,5.35,1.5586
+20251102,Chicago Center,Bamboo Cutting Board,Kitchen,18.39,22.1864
+20251102,Chicago Center,Solar Phone Charger,Electronics,9.56,88.421
+20251102,Chicago Center,Compostable Packaging,Packaging,-11.92,10.5607
+20251102,Atlanta South,Organic Cotton T-Shirt,Apparel,9.53,26.5523
+20251102,Atlanta South,Recycled Plastic Bottle,Beverage,8.62,2.7974
+20251102,Atlanta South,Bamboo Cutting Board,Kitchen,15.27,17.9571
+20251102,Atlanta South,Solar Phone Charger,Electronics,18.4,175.794
+20251102,Atlanta South,Compostable Packaging,Packaging,19.65,14.2066
+20251103,Seattle Hub,Organic Cotton T-Shirt,Apparel,-0.85,2.0357
+20251103,Seattle Hub,Recycled Plastic Bottle,Beverage,9.47,2.7331
+20251103,Seattle Hub,Bamboo Cutting Board,Kitchen,14.66,16.2043
+20251103,Seattle Hub,Solar Phone Charger,Electronics,13.97,140.7433
+20251103,Seattle Hub,Compostable Packaging,Packaging,2.21,1.51
+20251103,Portland DC,Organic Cotton T-Shirt,Apparel,14.07,30.7883
+20251103,Portland DC,Recycled Plastic Bottle,Beverage,3.33,0.8958
+20251103,Portland DC,Bamboo Cutting Board,Kitchen,11.0,11.0146
+20251103,Portland DC,Solar Phone Charger,Electronics,8.73,62.8207
+20251103,Portland DC,Compostable Packaging,Packaging,-9.18,7.3001
+20251103,Chicago Center,Organic Cotton T-Shirt,Apparel,5.23,12.002
+20251103,Chicago Center,Recycled Plastic Bottle,Beverage,7.01,1.7688
+20251103,Chicago Center,Bamboo Cutting Board,Kitchen,8.61,10.3142
+20251103,Chicago Center,Solar Phone Charger,Electronics,19.98,138.3787
+20251103,Chicago Center,Compostable Packaging,Packaging,14.63,13.7418
+20251103,Atlanta South,Organic Cotton T-Shirt,Apparel,-5.02,10.3447
+20251103,Atlanta South,Recycled Plastic Bottle,Beverage,11.29,3.0725
+20251103,Atlanta South,Bamboo Cutting Board,Kitchen,2.78,3.4997
+20251103,Atlanta South,Solar Phone Charger,Electronics,9.01,66.2103
+20251103,Atlanta South,Compostable Packaging,Packaging,9.04,7.2541
+20251104,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.47,52.7033
+20251104,Seattle Hub,Recycled Plastic Bottle,Beverage,17.72,5.7902
+20251104,Seattle Hub,Bamboo Cutting Board,Kitchen,18.85,23.9998
+20251104,Seattle Hub,Solar Phone Charger,Electronics,19.43,142.8277
+20251104,Seattle Hub,Compostable Packaging,Packaging,2.18,1.7321
+20251104,Portland DC,Organic Cotton T-Shirt,Apparel,10.1,28.2142
+20251104,Portland DC,Recycled Plastic Bottle,Beverage,5.08,1.5586
+20251104,Portland DC,Bamboo Cutting Board,Kitchen,5.59,7.1827
+20251104,Portland DC,Solar Phone Charger,Electronics,10.32,98.4855
+20251104,Portland DC,Compostable Packaging,Packaging,4.92,4.0336
+20251104,Chicago Center,Organic Cotton T-Shirt,Apparel,15.81,43.7838
+20251104,Chicago Center,Recycled Plastic Bottle,Beverage,17.98,6.1565
+20251104,Chicago Center,Bamboo Cutting Board,Kitchen,2.53,2.49
+20251104,Chicago Center,Solar Phone Charger,Electronics,19.27,180.5522
+20251104,Chicago Center,Compostable Packaging,Packaging,12.39,11.3329
+20251104,Atlanta South,Organic Cotton T-Shirt,Apparel,10.39,22.5156
+20251104,Atlanta South,Recycled Plastic Bottle,Beverage,7.55,2.4719
+20251104,Atlanta South,Bamboo Cutting Board,Kitchen,10.22,14.0815
+20251104,Atlanta South,Solar Phone Charger,Electronics,16.47,118.8828
+20251104,Atlanta South,Compostable Packaging,Packaging,15.5,9.9527
+20251105,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.09,13.223
+20251105,Seattle Hub,Recycled Plastic Bottle,Beverage,8.59,2.7104
+20251105,Seattle Hub,Bamboo Cutting Board,Kitchen,10.83,14.4891
+20251105,Seattle Hub,Solar Phone Charger,Electronics,18.4,181.303
+20251105,Seattle Hub,Compostable Packaging,Packaging,13.8,12.9996
+20251105,Portland DC,Organic Cotton T-Shirt,Apparel,14.49,36.4764
+20251105,Portland DC,Recycled Plastic Bottle,Beverage,8.33,2.7713
+20251105,Portland DC,Bamboo Cutting Board,Kitchen,1.22,1.7114
+20251105,Portland DC,Solar Phone Charger,Electronics,19.57,198.2864
+20251105,Portland DC,Compostable Packaging,Packaging,19.47,15.0732
+20251105,Chicago Center,Organic Cotton T-Shirt,Apparel,17.53,47.7088
+20251105,Chicago Center,Recycled Plastic Bottle,Beverage,16.63,5.7877
+20251105,Chicago Center,Bamboo Cutting Board,Kitchen,8.38,10.6347
+20251105,Chicago Center,Solar Phone Charger,Electronics,12.55,104.2063
+20251105,Chicago Center,Compostable Packaging,Packaging,13.15,11.6789
+20251105,Atlanta South,Organic Cotton T-Shirt,Apparel,10.98,26.2421
+20251105,Atlanta South,Recycled Plastic Bottle,Beverage,10.65,3.2471
+20251105,Atlanta South,Bamboo Cutting Board,Kitchen,6.59,7.4041
+20251105,Atlanta South,Solar Phone Charger,Electronics,17.86,154.2349
+20251105,Atlanta South,Compostable Packaging,Packaging,6.43,4.985
+20251106,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.91,38.2125
+20251106,Seattle Hub,Recycled Plastic Bottle,Beverage,15.25,5.3827
+20251106,Seattle Hub,Bamboo Cutting Board,Kitchen,0.6,0.6736
+20251106,Seattle Hub,Solar Phone Charger,Electronics,11.84,109.2808
+20251106,Seattle Hub,Compostable Packaging,Packaging,16.97,12.1306
+20251106,Portland DC,Organic Cotton T-Shirt,Apparel,16.39,42.1676
+20251106,Portland DC,Recycled Plastic Bottle,Beverage,14.88,3.7591
+20251106,Portland DC,Bamboo Cutting Board,Kitchen,15.68,18.4721
+20251106,Portland DC,Solar Phone Charger,Electronics,8.54,60.7505
+20251106,Portland DC,Compostable Packaging,Packaging,4.69,3.1188
+20251106,Chicago Center,Organic Cotton T-Shirt,Apparel,11.4,31.6786
+20251106,Chicago Center,Recycled Plastic Bottle,Beverage,12.91,4.6422
+20251106,Chicago Center,Bamboo Cutting Board,Kitchen,14.77,17.135
+20251106,Chicago Center,Solar Phone Charger,Electronics,9.95,83.1444
+20251106,Chicago Center,Compostable Packaging,Packaging,10.82,9.3293
+20251106,Atlanta South,Organic Cotton T-Shirt,Apparel,3.56,9.1101
+20251106,Atlanta South,Recycled Plastic Bottle,Beverage,17.12,4.3355
+20251106,Atlanta South,Bamboo Cutting Board,Kitchen,10.69,10.8666
+20251106,Atlanta South,Solar Phone Charger,Electronics,6.23,42.9566
+20251106,Atlanta South,Compostable Packaging,Packaging,8.72,8.1949
+20251107,Seattle Hub,Organic Cotton T-Shirt,Apparel,-4.07,11.1504
+20251107,Seattle Hub,Recycled Plastic Bottle,Beverage,1.82,0.4466
+20251107,Seattle Hub,Bamboo Cutting Board,Kitchen,9.32,10.4585
+20251107,Seattle Hub,Solar Phone Charger,Electronics,16.76,121.536
+20251107,Seattle Hub,Compostable Packaging,Packaging,15.35,13.1014
+20251107,Portland DC,Organic Cotton T-Shirt,Apparel,2.24,5.8795
+20251107,Portland DC,Recycled Plastic Bottle,Beverage,18.05,5.0663
+20251107,Portland DC,Bamboo Cutting Board,Kitchen,9.14,9.9913
+20251107,Portland DC,Solar Phone Charger,Electronics,0.98,8.7635
+20251107,Portland DC,Compostable Packaging,Packaging,13.08,11.0664
+20251107,Chicago Center,Organic Cotton T-Shirt,Apparel,11.07,30.5268
+20251107,Chicago Center,Recycled Plastic Bottle,Beverage,-15.14,4.5468
+20251107,Chicago Center,Bamboo Cutting Board,Kitchen,10.87,15.4565
+20251107,Chicago Center,Solar Phone Charger,Electronics,16.68,161.0007
+20251107,Chicago Center,Compostable Packaging,Packaging,10.9,8.0937
+20251107,Atlanta South,Organic Cotton T-Shirt,Apparel,18.71,43.7806
+20251107,Atlanta South,Recycled Plastic Bottle,Beverage,10.79,3.0842
+20251107,Atlanta South,Bamboo Cutting Board,Kitchen,11.06,12.1325
+20251107,Atlanta South,Solar Phone Charger,Electronics,3.51,35.2311
+20251107,Atlanta South,Compostable Packaging,Packaging,19.24,13.4308
+20251108,Seattle Hub,Organic Cotton T-Shirt,Apparel,2.43,5.2062
+20251108,Seattle Hub,Recycled Plastic Bottle,Beverage,18.86,6.5622
+20251108,Seattle Hub,Bamboo Cutting Board,Kitchen,12.14,13.0325
+20251108,Seattle Hub,Solar Phone Charger,Electronics,19.01,146.6731
+20251108,Seattle Hub,Compostable Packaging,Packaging,1.78,1.1557
+20251108,Portland DC,Organic Cotton T-Shirt,Apparel,0.86,2.1965
+20251108,Portland DC,Recycled Plastic Bottle,Beverage,15.38,4.8937
+20251108,Portland DC,Bamboo Cutting Board,Kitchen,9.2,12.5692
+20251108,Portland DC,Solar Phone Charger,Electronics,3.28,28.331
+20251108,Portland DC,Compostable Packaging,Packaging,19.08,18.0808
+20251108,Chicago Center,Organic Cotton T-Shirt,Apparel,16.35,48.4142
+20251108,Chicago Center,Recycled Plastic Bottle,Beverage,3.76,0.9296
+20251108,Chicago Center,Bamboo Cutting Board,Kitchen,5.39,6.9337
+20251108,Chicago Center,Solar Phone Charger,Electronics,4.65,44.9112
+20251108,Chicago Center,Compostable Packaging,Packaging,10.91,7.2266
+20251108,Atlanta South,Organic Cotton T-Shirt,Apparel,16.69,45.4815
+20251108,Atlanta South,Recycled Plastic Bottle,Beverage,4.61,1.3857
+20251108,Atlanta South,Bamboo Cutting Board,Kitchen,18.94,23.9569
+20251108,Atlanta South,Solar Phone Charger,Electronics,5.82,52.6811
+20251108,Atlanta South,Compostable Packaging,Packaging,19.2,14.306
+20251109,Seattle Hub,Organic Cotton T-Shirt,Apparel,-18.48,
+20251109,Seattle Hub,Recycled Plastic Bottle,Beverage,3.88,1.19
+20251109,Seattle Hub,Bamboo Cutting Board,Kitchen,8.16,8.1514
+20251109,Seattle Hub,Solar Phone Charger,Electronics,11.0,108.1822
+20251109,Seattle Hub,Compostable Packaging,Packaging,2.91,2.7676
+20251109,Portland DC,Organic Cotton T-Shirt,Apparel,8.04,22.8267
+20251109,Portland DC,Recycled Plastic Bottle,Beverage,2.93,
+20251109,Portland DC,Bamboo Cutting Board,Kitchen,14.99,19.8474
+20251109,Portland DC,Solar Phone Charger,Electronics,4.23,40.5038
+20251109,Portland DC,Compostable Packaging,Packaging,4.81,4.587
+20251109,Chicago Center,Organic Cotton T-Shirt,Apparel,10.11,
+20251109,Chicago Center,Recycled Plastic Bottle,Beverage,19.69,6.2341
+20251109,Chicago Center,Bamboo Cutting Board,Kitchen,10.26,10.6892
+20251109,Chicago Center,Solar Phone Charger,Electronics,13.61,120.45
+20251109,Chicago Center,Compostable Packaging,Packaging,15.05,10.2457
+20251109,Atlanta South,Organic Cotton T-Shirt,Apparel,17.68,48.2469
+20251109,Atlanta South,Recycled Plastic Bottle,Beverage,0.95,0.3386
+20251109,Atlanta South,Bamboo Cutting Board,Kitchen,-13.77,19.0562
+20251109,Atlanta South,Solar Phone Charger,Electronics,13.63,122.8077
+20251109,Atlanta South,Compostable Packaging,Packaging,16.96,13.0626
+20251110,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.16,25.5753
+20251110,Seattle Hub,Recycled Plastic Bottle,Beverage,1.42,0.4973
+20251110,Seattle Hub,Bamboo Cutting Board,Kitchen,8.14,9.1222
+20251110,Seattle Hub,Solar Phone Charger,Electronics,19.81,149.9049
+20251110,Seattle Hub,Compostable Packaging,Packaging,18.38,12.9212
+20251110,Portland DC,Organic Cotton T-Shirt,Apparel,12.69,25.7337
+20251110,Portland DC,Recycled Plastic Bottle,Beverage,16.05,5.6529
+20251110,Portland DC,Bamboo Cutting Board,Kitchen,9.73,13.8188
+20251110,Portland DC,Solar Phone Charger,Electronics,10.63,80.8404
+20251110,Portland DC,Compostable Packaging,Packaging,9.05,6.0691
+20251110,Chicago Center,Organic Cotton T-Shirt,Apparel,19.5,56.8759
+20251110,Chicago Center,Recycled Plastic Bottle,Beverage,14.02,4.6815
+20251110,Chicago Center,Bamboo Cutting Board,Kitchen,1.57,1.9675
+20251110,Chicago Center,Solar Phone Charger,Electronics,1.59,11.0942
+20251110,Chicago Center,Compostable Packaging,Packaging,12.54,9.6753
+20251110,Atlanta South,Organic Cotton T-Shirt,Apparel,12.67,31.0847
+20251110,Atlanta South,Recycled Plastic Bottle,Beverage,12.59,3.1746
+20251110,Atlanta South,Bamboo Cutting Board,Kitchen,1.01,1.2203
+20251110,Atlanta South,Solar Phone Charger,Electronics,0.74,6.8267
+20251110,Atlanta South,Compostable Packaging,Packaging,18.14,12.3409
+20251111,Seattle Hub,Organic Cotton T-Shirt,Apparel,9.89,25.9202
+20251111,Seattle Hub,Recycled Plastic Bottle,Beverage,1.36,0.3472
+20251111,Seattle Hub,Bamboo Cutting Board,Kitchen,13.21,14.95
+20251111,Seattle Hub,Solar Phone Charger,Electronics,3.34,28.0439
+20251111,Seattle Hub,Compostable Packaging,Packaging,19.42,15.6459
+20251111,Portland DC,Organic Cotton T-Shirt,Apparel,5.13,14.4624
+20251111,Portland DC,Recycled Plastic Bottle,Beverage,7.2,2.5717
+20251111,Portland DC,Bamboo Cutting Board,Kitchen,1.83,1.9231
+20251111,Portland DC,Solar Phone Charger,Electronics,9.61,87.9719
+20251111,Portland DC,Compostable Packaging,Packaging,7.05,5.188
+20251111,Chicago Center,Organic Cotton T-Shirt,Apparel,17.58,51.1673
+20251111,Chicago Center,Recycled Plastic Bottle,Beverage,12.96,4.1885
+20251111,Chicago Center,Bamboo Cutting Board,Kitchen,9.87,13.1153
+20251111,Chicago Center,Solar Phone Charger,Electronics,7.83,
+20251111,Chicago Center,Compostable Packaging,Packaging,0.69,0.5206
+20251111,Atlanta South,Organic Cotton T-Shirt,Apparel,9.09,23.9188
+20251111,Atlanta South,Recycled Plastic Bottle,Beverage,19.52,5.1512
+20251111,Atlanta South,Bamboo Cutting Board,Kitchen,5.61,5.8549
+20251111,Atlanta South,Solar Phone Charger,Electronics,4.32,31.9622
+20251111,Atlanta South,Compostable Packaging,Packaging,16.71,11.4283
+20251112,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.1,15.6927
+20251112,Seattle Hub,Recycled Plastic Bottle,Beverage,7.76,2.022
+20251112,Seattle Hub,Bamboo Cutting Board,Kitchen,12.65,14.7775
+20251112,Seattle Hub,Solar Phone Charger,Electronics,17.71,128.3037
+20251112,Seattle Hub,Compostable Packaging,Packaging,14.04,10.4141
+20251112,Portland DC,Organic Cotton T-Shirt,Apparel,18.46,51.0065
+20251112,Portland DC,Recycled Plastic Bottle,Beverage,6.24,1.6088
+20251112,Portland DC,Bamboo Cutting Board,Kitchen,5.96,6.0834
+20251112,Portland DC,Solar Phone Charger,Electronics,10.04,93.0991
+20251112,Portland DC,Compostable Packaging,Packaging,12.49,8.6628
+20251112,Chicago Center,Organic Cotton T-Shirt,Apparel,15.15,35.9701
+20251112,Chicago Center,Recycled Plastic Bottle,Beverage,14.39,4.361
+20251112,Chicago Center,Bamboo Cutting Board,Kitchen,9.74,12.0676
+20251112,Chicago Center,Solar Phone Charger,Electronics,13.17,98.834
+20251112,Chicago Center,Compostable Packaging,Packaging,5.07,3.5994
+20251112,Atlanta South,Organic Cotton T-Shirt,Apparel,3.57,10.1475
+20251112,Atlanta South,Recycled Plastic Bottle,Beverage,15.16,4.1752
+20251112,Atlanta South,Bamboo Cutting Board,Kitchen,1.3,1.5677
+20251112,Atlanta South,Solar Phone Charger,Electronics,8.93,71.8824
+20251112,Atlanta South,Compostable Packaging,Packaging,0.98,0.7657
+20251113,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.08,41.4849
+20251113,Seattle Hub,Recycled Plastic Bottle,Beverage,2.02,0.5518
+20251113,Seattle Hub,Bamboo Cutting Board,Kitchen,7.52,9.1901
+20251113,Seattle Hub,Solar Phone Charger,Electronics,5.38,50.2154
+20251113,Seattle Hub,Compostable Packaging,Packaging,4.22,3.5165
+20251113,Portland DC,Organic Cotton T-Shirt,Apparel,14.47,36.799
+20251113,Portland DC,Recycled Plastic Bottle,Beverage,6.0,1.6896
+20251113,Portland DC,Bamboo Cutting Board,Kitchen,-16.53,21.8815
+20251113,Portland DC,Solar Phone Charger,Electronics,19.79,198.5939
+20251113,Portland DC,Compostable Packaging,Packaging,14.61,10.3316
+20251113,Chicago Center,Organic Cotton T-Shirt,Apparel,11.28,27.8474
+20251113,Chicago Center,Recycled Plastic Bottle,Beverage,2.17,0.741
+20251113,Chicago Center,Bamboo Cutting Board,Kitchen,8.64,10.1137
+20251113,Chicago Center,Solar Phone Charger,Electronics,3.21,31.3641
+20251113,Chicago Center,Compostable Packaging,Packaging,10.25,8.721
+20251113,Atlanta South,Organic Cotton T-Shirt,Apparel,8.8,24.2231
+20251113,Atlanta South,Recycled Plastic Bottle,Beverage,6.34,1.9682
+20251113,Atlanta South,Bamboo Cutting Board,Kitchen,3.21,4.5873
+20251113,Atlanta South,Solar Phone Charger,Electronics,16.08,159.3007
+20251113,Atlanta South,Compostable Packaging,Packaging,7.94,7.492
+20251114,Seattle Hub,Organic Cotton T-Shirt,Apparel,9.76,22.7295
+20251114,Seattle Hub,Recycled Plastic Bottle,Beverage,6.44,1.6781
+20251114,Seattle Hub,Bamboo Cutting Board,Kitchen,16.62,20.7686
+20251114,Seattle Hub,Solar Phone Charger,Electronics,18.27,148.207
+20251114,Seattle Hub,Compostable Packaging,Packaging,10.73,8.4283
+20251114,Portland DC,Organic Cotton T-Shirt,Apparel,6.87,19.9904
+20251114,Portland DC,Recycled Plastic Bottle,Beverage,3.02,0.8764
+20251114,Portland DC,Bamboo Cutting Board,Kitchen,18.12,19.1911
+20251114,Portland DC,Solar Phone Charger,Electronics,16.45,149.0419
+20251114,Portland DC,Compostable Packaging,Packaging,6.55,4.6174
+20251114,Chicago Center,Organic Cotton T-Shirt,Apparel,4.43,13.2505
+20251114,Chicago Center,Recycled Plastic Bottle,Beverage,12.29,3.3136
+20251114,Chicago Center,Bamboo Cutting Board,Kitchen,10.07,11.9037
+20251114,Chicago Center,Solar Phone Charger,Electronics,13.1,130.0076
+20251114,Chicago Center,Compostable Packaging,Packaging,15.95,12.2041
+20251114,Atlanta South,Organic Cotton T-Shirt,Apparel,8.59,18.7226
+20251114,Atlanta South,Recycled Plastic Bottle,Beverage,8.0,2.5527
+20251114,Atlanta South,Bamboo Cutting Board,Kitchen,14.12,13.8511
+20251114,Atlanta South,Solar Phone Charger,Electronics,17.71,152.8073
+20251114,Atlanta South,Compostable Packaging,Packaging,14.67,13.6243
+20251115,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.36,32.5821
+20251115,Seattle Hub,Recycled Plastic Bottle,Beverage,10.34,3.4488
+20251115,Seattle Hub,Bamboo Cutting Board,Kitchen,4.54,4.4557
+20251115,Seattle Hub,Solar Phone Charger,Electronics,13.67,114.4244
+20251115,Seattle Hub,Compostable Packaging,Packaging,4.29,2.7975
+20251115,Portland DC,Organic Cotton T-Shirt,Apparel,3.16,8.4381
+20251115,Portland DC,Recycled Plastic Bottle,Beverage,2.11,0.6728
+20251115,Portland DC,Bamboo Cutting Board,Kitchen,9.68,10.5898
+20251115,Portland DC,Solar Phone Charger,Electronics,12.34,91.3481
+20251115,Portland DC,Compostable Packaging,Packaging,-3.78,3.2313
+20251115,Chicago Center,Organic Cotton T-Shirt,Apparel,9.09,19.7975
+20251115,Chicago Center,Recycled Plastic Bottle,Beverage,10.88,3.1884
+20251115,Chicago Center,Bamboo Cutting Board,Kitchen,10.7,13.6748
+20251115,Chicago Center,Solar Phone Charger,Electronics,13.96,116.0014
+20251115,Chicago Center,Compostable Packaging,Packaging,7.86,5.5378
+20251115,Atlanta South,Organic Cotton T-Shirt,Apparel,4.4,8.8706
+20251115,Atlanta South,Recycled Plastic Bottle,Beverage,16.5,5.3063
+20251115,Atlanta South,Bamboo Cutting Board,Kitchen,2.38,3.2391
+20251115,Atlanta South,Solar Phone Charger,Electronics,1.36,11.6178
+20251115,Atlanta South,Compostable Packaging,Packaging,12.72,10.6835
+20251116,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.84,19.7345
+20251116,Seattle Hub,Recycled Plastic Bottle,Beverage,-0.79,0.2516
+20251116,Seattle Hub,Bamboo Cutting Board,Kitchen,4.79,6.1112
+20251116,Seattle Hub,Solar Phone Charger,Electronics,1.36,13.3424
+20251116,Seattle Hub,Compostable Packaging,Packaging,10.24,9.7992
+20251116,Portland DC,Organic Cotton T-Shirt,Apparel,18.48,47.4789
+20251116,Portland DC,Recycled Plastic Bottle,Beverage,6.82,2.1531
+20251116,Portland DC,Bamboo Cutting Board,Kitchen,15.54,15.91
+20251116,Portland DC,Solar Phone Charger,Electronics,13.91,140.8426
+20251116,Portland DC,Compostable Packaging,Packaging,0.84,0.7828
+20251116,Chicago Center,Organic Cotton T-Shirt,Apparel,14.97,37.4762
+20251116,Chicago Center,Recycled Plastic Bottle,Beverage,0.91,0.3013
+20251116,Chicago Center,Bamboo Cutting Board,Kitchen,8.86,9.5414
+20251116,Chicago Center,Solar Phone Charger,Electronics,10.23,76.5904
+20251116,Chicago Center,Compostable Packaging,Packaging,5.14,4.4826
+20251116,Atlanta South,Organic Cotton T-Shirt,Apparel,17.61,37.5844
+20251116,Atlanta South,Recycled Plastic Bottle,Beverage,1.27,0.4255
+20251116,Atlanta South,Bamboo Cutting Board,Kitchen,15.14,16.1987
+20251116,Atlanta South,Solar Phone Charger,Electronics,4.51,31.4972
+20251116,Atlanta South,Compostable Packaging,Packaging,16.13,13.9171
+20251117,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.67,23.2984
+20251117,Seattle Hub,Recycled Plastic Bottle,Beverage,10.09,3.5763
+20251117,Seattle Hub,Bamboo Cutting Board,Kitchen,18.8,19.1811
+20251117,Seattle Hub,Solar Phone Charger,Electronics,16.01,119.9929
+20251117,Seattle Hub,Compostable Packaging,Packaging,9.61,6.6552
+20251117,Portland DC,Organic Cotton T-Shirt,Apparel,12.31,28.3512
+20251117,Portland DC,Recycled Plastic Bottle,Beverage,4.43,1.5217
+20251117,Portland DC,Bamboo Cutting Board,Kitchen,7.51,8.5712
+20251117,Portland DC,Solar Phone Charger,Electronics,12.38,102.428
+20251117,Portland DC,Compostable Packaging,Packaging,9.9,8.7498
+20251117,Chicago Center,Organic Cotton T-Shirt,Apparel,18.18,41.8182
+20251117,Chicago Center,Recycled Plastic Bottle,Beverage,3.93,1.1226
+20251117,Chicago Center,Bamboo Cutting Board,Kitchen,11.46,13.6466
+20251117,Chicago Center,Solar Phone Charger,Electronics,-4.32,42.8321
+20251117,Chicago Center,Compostable Packaging,Packaging,14.74,11.1989
+20251117,Atlanta South,Organic Cotton T-Shirt,Apparel,8.2,22.486
+20251117,Atlanta South,Recycled Plastic Bottle,Beverage,19.76,4.9113
+20251117,Atlanta South,Bamboo Cutting Board,Kitchen,2.93,4.1237
+20251117,Atlanta South,Solar Phone Charger,Electronics,19.16,180.5316
+20251117,Atlanta South,Compostable Packaging,Packaging,14.33,12.083
+20251118,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.01,19.4166
+20251118,Seattle Hub,Recycled Plastic Bottle,Beverage,18.47,5.2338
+20251118,Seattle Hub,Bamboo Cutting Board,Kitchen,13.48,13.8977
+20251118,Seattle Hub,Solar Phone Charger,Electronics,3.37,25.7509
+20251118,Seattle Hub,Compostable Packaging,Packaging,3.65,2.4723
+20251118,Portland DC,Organic Cotton T-Shirt,Apparel,7.99,21.6215
+20251118,Portland DC,Recycled Plastic Bottle,Beverage,18.24,6.295
+20251118,Portland DC,Bamboo Cutting Board,Kitchen,13.99,16.7923
+20251118,Portland DC,Solar Phone Charger,Electronics,11.93,110.8938
+20251118,Portland DC,Compostable Packaging,Packaging,17.45,11.7782
+20251118,Chicago Center,Organic Cotton T-Shirt,Apparel,16.38,37.1666
+20251118,Chicago Center,Recycled Plastic Bottle,Beverage,14.13,3.4021
+20251118,Chicago Center,Bamboo Cutting Board,Kitchen,2.39,3.182
+20251118,Chicago Center,Solar Phone Charger,Electronics,6.12,50.5832
+20251118,Chicago Center,Compostable Packaging,Packaging,3.12,2.4825
+20251118,Atlanta South,Organic Cotton T-Shirt,Apparel,11.56,25.5773
+20251118,Atlanta South,Recycled Plastic Bottle,Beverage,16.28,4.2821
+20251118,Atlanta South,Bamboo Cutting Board,Kitchen,9.09,12.7099
+20251118,Atlanta South,Solar Phone Charger,Electronics,2.06,14.6083
+20251118,Atlanta South,Compostable Packaging,Packaging,1.08,0.7723
+20251119,Seattle Hub,Organic Cotton T-Shirt,Apparel,0.69,1.5636
+20251119,Seattle Hub,Recycled Plastic Bottle,Beverage,15.89,3.8934
+20251119,Seattle Hub,Bamboo Cutting Board,Kitchen,7.83,9.4714
+20251119,Seattle Hub,Solar Phone Charger,Electronics,9.98,93.5475
+20251119,Seattle Hub,Compostable Packaging,Packaging,13.8,10.347
+20251119,Portland DC,Organic Cotton T-Shirt,Apparel,7.54,18.0845
+20251119,Portland DC,Recycled Plastic Bottle,Beverage,-17.53,5.9033
+20251119,Portland DC,Bamboo Cutting Board,Kitchen,8.34,11.3508
+20251119,Portland DC,Solar Phone Charger,Electronics,2.9,24.952
+20251119,Portland DC,Compostable Packaging,Packaging,5.35,4.1977
+20251119,Chicago Center,Organic Cotton T-Shirt,Apparel,-10.54,28.0388
+20251119,Chicago Center,Recycled Plastic Bottle,Beverage,18.87,5.2584
+20251119,Chicago Center,Bamboo Cutting Board,Kitchen,19.41,25.489
+20251119,Chicago Center,Solar Phone Charger,Electronics,9.95,92.6673
+20251119,Chicago Center,Compostable Packaging,Packaging,18.81,17.7053
+20251119,Atlanta South,Organic Cotton T-Shirt,Apparel,14.14,29.7004
+20251119,Atlanta South,Recycled Plastic Bottle,Beverage,14.38,4.9522
+20251119,Atlanta South,Bamboo Cutting Board,Kitchen,14.47,14.1117
+20251119,Atlanta South,Solar Phone Charger,Electronics,16.73,170.4358
+20251119,Atlanta South,Compostable Packaging,Packaging,17.98,17.0022
+20251120,Seattle Hub,Organic Cotton T-Shirt,Apparel,5.25,11.3948
+20251120,Seattle Hub,Recycled Plastic Bottle,Beverage,2.56,0.9196
+20251120,Seattle Hub,Bamboo Cutting Board,Kitchen,6.87,7.8598
+20251120,Seattle Hub,Solar Phone Charger,Electronics,13.49,135.3737
+20251120,Seattle Hub,Compostable Packaging,Packaging,18.49,15.5822
+20251120,Portland DC,Organic Cotton T-Shirt,Apparel,6.99,15.5444
+20251120,Portland DC,Recycled Plastic Bottle,Beverage,1.76,0.4949
+20251120,Portland DC,Bamboo Cutting Board,Kitchen,14.64,18.6496
+20251120,Portland DC,Solar Phone Charger,Electronics,9.02,68.4929
+20251120,Portland DC,Compostable Packaging,Packaging,2.67,1.9995
+20251120,Chicago Center,Organic Cotton T-Shirt,Apparel,18.87,48.5495
+20251120,Chicago Center,Recycled Plastic Bottle,Beverage,7.91,2.5979
+20251120,Chicago Center,Bamboo Cutting Board,Kitchen,4.2,4.8145
+20251120,Chicago Center,Solar Phone Charger,Electronics,16.05,160.1043
+20251120,Chicago Center,Compostable Packaging,Packaging,-12.02,8.1028
+20251120,Atlanta South,Organic Cotton T-Shirt,Apparel,6.66,18.7555
+20251120,Atlanta South,Recycled Plastic Bottle,Beverage,13.76,3.5458
+20251120,Atlanta South,Bamboo Cutting Board,Kitchen,17.06,23.1559
+20251120,Atlanta South,Solar Phone Charger,Electronics,10.3,94.1548
+20251120,Atlanta South,Compostable Packaging,Packaging,11.69,9.8423
+20251121,Seattle Hub,Organic Cotton T-Shirt,Apparel,19.35,39.838
+20251121,Seattle Hub,Recycled Plastic Bottle,Beverage,14.48,4.9488
+20251121,Seattle Hub,Bamboo Cutting Board,Kitchen,14.85,20.8363
+20251121,Seattle Hub,Solar Phone Charger,Electronics,14.68,114.7528
+20251121,Seattle Hub,Compostable Packaging,Packaging,3.6,2.3288
+20251121,Portland DC,Organic Cotton T-Shirt,Apparel,9.73,22.849
+20251121,Portland DC,Recycled Plastic Bottle,Beverage,14.67,4.0179
+20251121,Portland DC,Bamboo Cutting Board,Kitchen,11.19,11.2651
+20251121,Portland DC,Solar Phone Charger,Electronics,17.38,121.3823
+20251121,Portland DC,Compostable Packaging,Packaging,13.27,10.9436
+20251121,Chicago Center,Organic Cotton T-Shirt,Apparel,18.0,39.7758
+20251121,Chicago Center,Recycled Plastic Bottle,Beverage,13.2,3.7418
+20251121,Chicago Center,Bamboo Cutting Board,Kitchen,15.82,21.7058
+20251121,Chicago Center,Solar Phone Charger,Electronics,13.75,101.3644
+20251121,Chicago Center,Compostable Packaging,Packaging,9.74,9.1792
+20251121,Atlanta South,Organic Cotton T-Shirt,Apparel,7.1,17.2801
+20251121,Atlanta South,Recycled Plastic Bottle,Beverage,5.28,1.3425
+20251121,Atlanta South,Bamboo Cutting Board,Kitchen,12.13,12.6491
+20251121,Atlanta South,Solar Phone Charger,Electronics,19.83,180.0664
+20251121,Atlanta South,Compostable Packaging,Packaging,16.45,12.5394
+20251122,Seattle Hub,Organic Cotton T-Shirt,Apparel,0.73,1.5451
+20251122,Seattle Hub,Recycled Plastic Bottle,Beverage,18.22,4.8646
+20251122,Seattle Hub,Bamboo Cutting Board,Kitchen,9.85,12.7359
+20251122,Seattle Hub,Solar Phone Charger,Electronics,7.99,81.4968
+20251122,Seattle Hub,Compostable Packaging,Packaging,2.94,2.1876
+20251122,Portland DC,Organic Cotton T-Shirt,Apparel,10.98,26.4105
+20251122,Portland DC,Recycled Plastic Bottle,Beverage,16.44,5.4912
+20251122,Portland DC,Bamboo Cutting Board,Kitchen,16.82,20.4987
+20251122,Portland DC,Solar Phone Charger,Electronics,15.19,114.0067
+20251122,Portland DC,Compostable Packaging,Packaging,-17.31,14.9293
+20251122,Chicago Center,Organic Cotton T-Shirt,Apparel,6.63,13.5195
+20251122,Chicago Center,Recycled Plastic Bottle,Beverage,2.21,0.5985
+20251122,Chicago Center,Bamboo Cutting Board,Kitchen,2.93,3.2327
+20251122,Chicago Center,Solar Phone Charger,Electronics,19.55,176.6879
+20251122,Chicago Center,Compostable Packaging,Packaging,18.94,17.6043
+20251122,Atlanta South,Organic Cotton T-Shirt,Apparel,3.23,8.0441
+20251122,Atlanta South,Recycled Plastic Bottle,Beverage,19.94,6.236
+20251122,Atlanta South,Bamboo Cutting Board,Kitchen,13.42,13.1714
+20251122,Atlanta South,Solar Phone Charger,Electronics,17.19,129.4703
+20251122,Atlanta South,Compostable Packaging,Packaging,12.04,8.7744
+20251123,Seattle Hub,Organic Cotton T-Shirt,Apparel,11.22,25.3648
+20251123,Seattle Hub,Recycled Plastic Bottle,Beverage,9.39,3.3181
+20251123,Seattle Hub,Bamboo Cutting Board,Kitchen,3.29,3.4802
+20251123,Seattle Hub,Solar Phone Charger,Electronics,12.85,115.585
+20251123,Seattle Hub,Compostable Packaging,Packaging,13.13,10.552
+20251123,Portland DC,Organic Cotton T-Shirt,Apparel,6.67,18.5945
+20251123,Portland DC,Recycled Plastic Bottle,Beverage,5.33,1.452
+20251123,Portland DC,Bamboo Cutting Board,Kitchen,8.43,9.4255
+20251123,Portland DC,Solar Phone Charger,Electronics,15.67,114.3522
+20251123,Portland DC,Compostable Packaging,Packaging,2.41,2.2978
+20251123,Chicago Center,Organic Cotton T-Shirt,Apparel,15.76,33.4664
+20251123,Chicago Center,Recycled Plastic Bottle,Beverage,11.98,4.0351
+20251123,Chicago Center,Bamboo Cutting Board,Kitchen,11.66,12.7719
+20251123,Chicago Center,Solar Phone Charger,Electronics,1.44,11.3489
+20251123,Chicago Center,Compostable Packaging,Packaging,16.22,13.8989
+20251123,Atlanta South,Organic Cotton T-Shirt,Apparel,17.7,42.5269
+20251123,Atlanta South,Recycled Plastic Bottle,Beverage,13.89,4.5224
+20251123,Atlanta South,Bamboo Cutting Board,Kitchen,11.57,12.5921
+20251123,Atlanta South,Solar Phone Charger,Electronics,7.72,72.9046
+20251123,Atlanta South,Compostable Packaging,Packaging,9.43,7.3598
+20251124,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.09,17.9814
+20251124,Seattle Hub,Recycled Plastic Bottle,Beverage,18.51,4.9505
+20251124,Seattle Hub,Bamboo Cutting Board,Kitchen,6.46,8.591
+20251124,Seattle Hub,Solar Phone Charger,Electronics,2.0,15.2322
+20251124,Seattle Hub,Compostable Packaging,Packaging,2.15,1.5727
+20251124,Portland DC,Organic Cotton T-Shirt,Apparel,0.71,2.0934
+20251124,Portland DC,Recycled Plastic Bottle,Beverage,3.16,0.9472
+20251124,Portland DC,Bamboo Cutting Board,Kitchen,-10.88,11.096
+20251124,Portland DC,Solar Phone Charger,Electronics,16.71,114.0422
+20251124,Portland DC,Compostable Packaging,Packaging,7.23,6.9274
+20251124,Chicago Center,Organic Cotton T-Shirt,Apparel,19.98,58.8399
+20251124,Chicago Center,Recycled Plastic Bottle,Beverage,9.25,2.4071
+20251124,Chicago Center,Bamboo Cutting Board,Kitchen,18.12,18.9157
+20251124,Chicago Center,Solar Phone Charger,Electronics,7.39,51.5311
+20251124,Chicago Center,Compostable Packaging,Packaging,19.41,14.5215
+20251124,Atlanta South,Organic Cotton T-Shirt,Apparel,17.09,48.8399
+20251124,Atlanta South,Recycled Plastic Bottle,Beverage,5.66,1.3599
+20251124,Atlanta South,Bamboo Cutting Board,Kitchen,18.5,26.0105
+20251124,Atlanta South,Solar Phone Charger,Electronics,17.92,178.8489
+20251124,Atlanta South,Compostable Packaging,Packaging,1.62,1.0399
+20251125,Seattle Hub,Organic Cotton T-Shirt,Apparel,2.59,6.0858
+20251125,Seattle Hub,Recycled Plastic Bottle,Beverage,0.67,0.1954
+20251125,Seattle Hub,Bamboo Cutting Board,Kitchen,18.02,
+20251125,Seattle Hub,Solar Phone Charger,Electronics,15.5,118.5821
+20251125,Seattle Hub,Compostable Packaging,Packaging,7.61,7.0431
+20251125,Portland DC,Organic Cotton T-Shirt,Apparel,19.79,52.5678
+20251125,Portland DC,Recycled Plastic Bottle,Beverage,15.07,3.6273
+20251125,Portland DC,Bamboo Cutting Board,Kitchen,2.66,2.9174
+20251125,Portland DC,Solar Phone Charger,Electronics,6.96,48.0759
+20251125,Portland DC,Compostable Packaging,Packaging,19.21,18.3367
+20251125,Chicago Center,Organic Cotton T-Shirt,Apparel,10.16,27.2464
+20251125,Chicago Center,Recycled Plastic Bottle,Beverage,15.72,4.5271
+20251125,Chicago Center,Bamboo Cutting Board,Kitchen,16.6,16.9831
+20251125,Chicago Center,Solar Phone Charger,Electronics,-2.96,23.5912
+20251125,Chicago Center,Compostable Packaging,Packaging,1.51,1.3674
+20251125,Atlanta South,Organic Cotton T-Shirt,Apparel,0.66,1.6369
+20251125,Atlanta South,Recycled Plastic Bottle,Beverage,8.86,2.783
+20251125,Atlanta South,Bamboo Cutting Board,Kitchen,5.98,6.071
+20251125,Atlanta South,Solar Phone Charger,Electronics,13.49,111.4158
+20251125,Atlanta South,Compostable Packaging,Packaging,2.51,2.1931
+20251126,Seattle Hub,Organic Cotton T-Shirt,Apparel,17.17,45.1383
+20251126,Seattle Hub,Recycled Plastic Bottle,Beverage,8.33,2.273
+20251126,Seattle Hub,Bamboo Cutting Board,Kitchen,0.84,0.8869
+20251126,Seattle Hub,Solar Phone Charger,Electronics,10.74,98.599
+20251126,Seattle Hub,Compostable Packaging,Packaging,8.81,5.8114
+20251126,Portland DC,Organic Cotton T-Shirt,Apparel,2.65,6.2635
+20251126,Portland DC,Recycled Plastic Bottle,Beverage,5.32,
+20251126,Portland DC,Bamboo Cutting Board,Kitchen,13.38,14.9105
+20251126,Portland DC,Solar Phone Charger,Electronics,12.33,101.9085
+20251126,Portland DC,Compostable Packaging,Packaging,7.02,4.7433
+20251126,Chicago Center,Organic Cotton T-Shirt,Apparel,15.52,33.0624
+20251126,Chicago Center,Recycled Plastic Bottle,Beverage,14.99,4.6569
+20251126,Chicago Center,Bamboo Cutting Board,Kitchen,5.88,7.294
+20251126,Chicago Center,Solar Phone Charger,Electronics,12.78,113.0549
+20251126,Chicago Center,Compostable Packaging,Packaging,17.74,15.9939
+20251126,Atlanta South,Organic Cotton T-Shirt,Apparel,2.42,7.1192
+20251126,Atlanta South,Recycled Plastic Bottle,Beverage,9.75,3.2304
+20251126,Atlanta South,Bamboo Cutting Board,Kitchen,2.99,3.4706
+20251126,Atlanta South,Solar Phone Charger,Electronics,15.31,148.1503
+20251126,Atlanta South,Compostable Packaging,Packaging,7.64,6.4295
+20251127,Seattle Hub,Organic Cotton T-Shirt,Apparel,9.92,25.0357
+20251127,Seattle Hub,Recycled Plastic Bottle,Beverage,3.76,1.0261
+20251127,Seattle Hub,Bamboo Cutting Board,Kitchen,19.14,18.9329
+20251127,Seattle Hub,Solar Phone Charger,Electronics,16.38,138.953
+20251127,Seattle Hub,Compostable Packaging,Packaging,1.96,1.529
+20251127,Portland DC,Organic Cotton T-Shirt,Apparel,8.11,
+20251127,Portland DC,Recycled Plastic Bottle,Beverage,-11.65,3.6238
+20251127,Portland DC,Bamboo Cutting Board,Kitchen,10.5,12.6192
+20251127,Portland DC,Solar Phone Charger,Electronics,17.12,133.6667
+20251127,Portland DC,Compostable Packaging,Packaging,4.87,3.9483
+20251127,Chicago Center,Organic Cotton T-Shirt,Apparel,18.87,42.9813
+20251127,Chicago Center,Recycled Plastic Bottle,Beverage,1.5,0.5364
+20251127,Chicago Center,Bamboo Cutting Board,Kitchen,2.77,3.5216
+20251127,Chicago Center,Solar Phone Charger,Electronics,6.83,68.4219
+20251127,Chicago Center,Compostable Packaging,Packaging,3.11,2.8844
+20251127,Atlanta South,Organic Cotton T-Shirt,Apparel,12.71,25.5523
+20251127,Atlanta South,Recycled Plastic Bottle,Beverage,-5.95,1.6108
+20251127,Atlanta South,Bamboo Cutting Board,Kitchen,17.43,24.589
+20251127,Atlanta South,Solar Phone Charger,Electronics,13.92,139.412
+20251127,Atlanta South,Compostable Packaging,Packaging,12.28,8.6693
+20251128,Seattle Hub,Organic Cotton T-Shirt,Apparel,4.48,11.7815
+20251128,Seattle Hub,Recycled Plastic Bottle,Beverage,9.2,3.0137
+20251128,Seattle Hub,Bamboo Cutting Board,Kitchen,9.84,11.7889
+20251128,Seattle Hub,Solar Phone Charger,Electronics,3.93,34.3358
+20251128,Seattle Hub,Compostable Packaging,Packaging,6.0,4.4355
+20251128,Portland DC,Organic Cotton T-Shirt,Apparel,13.9,30.4111
+20251128,Portland DC,Recycled Plastic Bottle,Beverage,9.37,2.9742
+20251128,Portland DC,Bamboo Cutting Board,Kitchen,-3.18,4.1983
+20251128,Portland DC,Solar Phone Charger,Electronics,-7.99,57.3212
+20251128,Portland DC,Compostable Packaging,Packaging,18.73,12.7794
+20251128,Chicago Center,Organic Cotton T-Shirt,Apparel,18.8,
+20251128,Chicago Center,Recycled Plastic Bottle,Beverage,15.94,4.863
+20251128,Chicago Center,Bamboo Cutting Board,Kitchen,2.16,2.218
+20251128,Chicago Center,Solar Phone Charger,Electronics,16.4,128.6598
+20251128,Chicago Center,Compostable Packaging,Packaging,11.1,8.054
+20251128,Atlanta South,Organic Cotton T-Shirt,Apparel,1.37,3.4862
+20251128,Atlanta South,Recycled Plastic Bottle,Beverage,8.6,2.0652
+20251128,Atlanta South,Bamboo Cutting Board,Kitchen,8.01,9.048
+20251128,Atlanta South,Solar Phone Charger,Electronics,13.85,126.5198
+20251128,Atlanta South,Compostable Packaging,Packaging,10.09,9.6566
+20251129,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.0,12.4577
+20251129,Seattle Hub,Recycled Plastic Bottle,Beverage,18.53,4.6358
+20251129,Seattle Hub,Bamboo Cutting Board,Kitchen,8.86,9.9296
+20251129,Seattle Hub,Solar Phone Charger,Electronics,17.92,163.7233
+20251129,Seattle Hub,Compostable Packaging,Packaging,17.57,12.769
+20251129,Portland DC,Organic Cotton T-Shirt,Apparel,5.68,16.5117
+20251129,Portland DC,Recycled Plastic Bottle,Beverage,17.3,6.1824
+20251129,Portland DC,Bamboo Cutting Board,Kitchen,3.38,3.9695
+20251129,Portland DC,Solar Phone Charger,Electronics,16.39,117.7582
+20251129,Portland DC,Compostable Packaging,Packaging,3.32,2.468
+20251129,Chicago Center,Organic Cotton T-Shirt,Apparel,7.38,18.4072
+20251129,Chicago Center,Recycled Plastic Bottle,Beverage,12.23,3.8695
+20251129,Chicago Center,Bamboo Cutting Board,Kitchen,18.47,21.1284
+20251129,Chicago Center,Solar Phone Charger,Electronics,10.11,87.1798
+20251129,Chicago Center,Compostable Packaging,Packaging,14.44,11.6765
+20251129,Atlanta South,Organic Cotton T-Shirt,Apparel,4.78,9.9771
+20251129,Atlanta South,Recycled Plastic Bottle,Beverage,17.09,4.8448
+20251129,Atlanta South,Bamboo Cutting Board,Kitchen,2.65,3.7033
+20251129,Atlanta South,Solar Phone Charger,Electronics,15.68,114.053
+20251129,Atlanta South,Compostable Packaging,Packaging,11.25,10.5528
+20251130,Seattle Hub,Organic Cotton T-Shirt,Apparel,4.88,13.4053
+20251130,Seattle Hub,Recycled Plastic Bottle,Beverage,3.29,1.079
+20251130,Seattle Hub,Bamboo Cutting Board,Kitchen,1.55,1.5669
+20251130,Seattle Hub,Solar Phone Charger,Electronics,12.08,88.6405
+20251130,Seattle Hub,Compostable Packaging,Packaging,5.28,3.4003
+20251130,Portland DC,Organic Cotton T-Shirt,Apparel,15.43,38.1085
+20251130,Portland DC,Recycled Plastic Bottle,Beverage,19.0,5.632
+20251130,Portland DC,Bamboo Cutting Board,Kitchen,13.07,12.6301
+20251130,Portland DC,Solar Phone Charger,Electronics,13.03,115.3701
+20251130,Portland DC,Compostable Packaging,Packaging,8.23,6.3828
+20251130,Chicago Center,Organic Cotton T-Shirt,Apparel,14.37,32.4482
+20251130,Chicago Center,Recycled Plastic Bottle,Beverage,4.93,1.7342
+20251130,Chicago Center,Bamboo Cutting Board,Kitchen,7.86,11.1338
+20251130,Chicago Center,Solar Phone Charger,Electronics,1.59,12.9327
+20251130,Chicago Center,Compostable Packaging,Packaging,12.3,8.1759
+20251130,Atlanta South,Organic Cotton T-Shirt,Apparel,13.23,31.8195
+20251130,Atlanta South,Recycled Plastic Bottle,Beverage,7.74,2.2516
+20251130,Atlanta South,Bamboo Cutting Board,Kitchen,7.57,10.097
+20251130,Atlanta South,Solar Phone Charger,Electronics,3.67,26.2845
+20251130,Atlanta South,Compostable Packaging,Packaging,18.24,12.7694
+20251201,Seattle Hub,Organic Cotton T-Shirt,Apparel,5.19,10.8214
+20251201,Seattle Hub,Recycled Plastic Bottle,Beverage,19.74,5.8836
+20251201,Seattle Hub,Bamboo Cutting Board,Kitchen,6.52,9.3279
+20251201,Seattle Hub,Solar Phone Charger,Electronics,10.25,80.6594
+20251201,Seattle Hub,Compostable Packaging,Packaging,3.03,2.5934
+20251201,Portland DC,Organic Cotton T-Shirt,Apparel,10.32,25.8225
+20251201,Portland DC,Recycled Plastic Bottle,Beverage,16.02,4.7617
+20251201,Portland DC,Bamboo Cutting Board,Kitchen,3.64,4.6866
+20251201,Portland DC,Solar Phone Charger,Electronics,19.08,144.7664
+20251201,Portland DC,Compostable Packaging,Packaging,3.25,2.8273
+20251201,Chicago Center,Organic Cotton T-Shirt,Apparel,19.85,51.7835
+20251201,Chicago Center,Recycled Plastic Bottle,Beverage,9.23,2.3605
+20251201,Chicago Center,Bamboo Cutting Board,Kitchen,18.83,18.4385
+20251201,Chicago Center,Solar Phone Charger,Electronics,5.16,52.5795
+20251201,Chicago Center,Compostable Packaging,Packaging,11.55,11.0673
+20251201,Atlanta South,Organic Cotton T-Shirt,Apparel,15.44,35.6593
+20251201,Atlanta South,Recycled Plastic Bottle,Beverage,17.96,5.3857
+20251201,Atlanta South,Bamboo Cutting Board,Kitchen,6.26,6.2144
+20251201,Atlanta South,Solar Phone Charger,Electronics,1.89,17.4187
+20251201,Atlanta South,Compostable Packaging,Packaging,19.58,17.3128
+20251202,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.83,55.9567
+20251202,Seattle Hub,Recycled Plastic Bottle,Beverage,6.09,1.7605
+20251202,Seattle Hub,Bamboo Cutting Board,Kitchen,9.1,10.9745
+20251202,Seattle Hub,Solar Phone Charger,Electronics,2.13,17.4764
+20251202,Seattle Hub,Compostable Packaging,Packaging,19.83,12.962
+20251202,Portland DC,Organic Cotton T-Shirt,Apparel,15.92,42.9799
+20251202,Portland DC,Recycled Plastic Bottle,Beverage,2.55,0.727
+20251202,Portland DC,Bamboo Cutting Board,Kitchen,4.85,6.691
+20251202,Portland DC,Solar Phone Charger,Electronics,9.64,83.091
+20251202,Portland DC,Compostable Packaging,Packaging,4.02,2.7122
+20251202,Chicago Center,Organic Cotton T-Shirt,Apparel,8.95,21.4936
+20251202,Chicago Center,Recycled Plastic Bottle,Beverage,12.29,3.2632
+20251202,Chicago Center,Bamboo Cutting Board,Kitchen,9.36,11.4345
+20251202,Chicago Center,Solar Phone Charger,Electronics,4.66,40.6907
+20251202,Chicago Center,Compostable Packaging,Packaging,1.72,1.5458
+20251202,Atlanta South,Organic Cotton T-Shirt,Apparel,4.66,10.3056
+20251202,Atlanta South,Recycled Plastic Bottle,Beverage,8.75,2.3647
+20251202,Atlanta South,Bamboo Cutting Board,Kitchen,5.84,5.8354
+20251202,Atlanta South,Solar Phone Charger,Electronics,8.68,65.3427
+20251202,Atlanta South,Compostable Packaging,Packaging,1.55,1.4359
+20251203,Seattle Hub,Organic Cotton T-Shirt,Apparel,6.29,13.8292
+20251203,Seattle Hub,Recycled Plastic Bottle,Beverage,10.94,3.6546
+20251203,Seattle Hub,Bamboo Cutting Board,Kitchen,18.3,22.5777
+20251203,Seattle Hub,Solar Phone Charger,Electronics,17.93,134.0286
+20251203,Seattle Hub,Compostable Packaging,Packaging,3.32,2.8303
+20251203,Portland DC,Organic Cotton T-Shirt,Apparel,-16.59,45.3426
+20251203,Portland DC,Recycled Plastic Bottle,Beverage,18.71,5.6118
+20251203,Portland DC,Bamboo Cutting Board,Kitchen,13.64,14.815
+20251203,Portland DC,Solar Phone Charger,Electronics,18.89,183.5108
+20251203,Portland DC,Compostable Packaging,Packaging,11.78,7.6767
+20251203,Chicago Center,Organic Cotton T-Shirt,Apparel,14.08,39.0633
+20251203,Chicago Center,Recycled Plastic Bottle,Beverage,4.59,1.2069
+20251203,Chicago Center,Bamboo Cutting Board,Kitchen,7.72,8.7593
+20251203,Chicago Center,Solar Phone Charger,Electronics,16.47,118.9815
+20251203,Chicago Center,Compostable Packaging,Packaging,8.57,6.4494
+20251203,Atlanta South,Organic Cotton T-Shirt,Apparel,19.49,45.5253
+20251203,Atlanta South,Recycled Plastic Bottle,Beverage,7.78,2.3833
+20251203,Atlanta South,Bamboo Cutting Board,Kitchen,6.06,7.7363
+20251203,Atlanta South,Solar Phone Charger,Electronics,14.19,141.742
+20251203,Atlanta South,Compostable Packaging,Packaging,2.21,2.0065
+20251204,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.68,39.2967
+20251204,Seattle Hub,Recycled Plastic Bottle,Beverage,11.12,3.5142
+20251204,Seattle Hub,Bamboo Cutting Board,Kitchen,13.52,18.5064
+20251204,Seattle Hub,Solar Phone Charger,Electronics,11.26,80.9516
+20251204,Seattle Hub,Compostable Packaging,Packaging,7.34,6.562
+20251204,Portland DC,Organic Cotton T-Shirt,Apparel,13.07,36.3952
+20251204,Portland DC,Recycled Plastic Bottle,Beverage,15.75,4.7393
+20251204,Portland DC,Bamboo Cutting Board,Kitchen,6.49,9.0424
+20251204,Portland DC,Solar Phone Charger,Electronics,0.58,5.7367
+20251204,Portland DC,Compostable Packaging,Packaging,15.91,14.4629
+20251204,Chicago Center,Organic Cotton T-Shirt,Apparel,6.69,14.52
+20251204,Chicago Center,Recycled Plastic Bottle,Beverage,11.34,3.2542
+20251204,Chicago Center,Bamboo Cutting Board,Kitchen,1.51,2.1251
+20251204,Chicago Center,Solar Phone Charger,Electronics,8.11,75.225
+20251204,Chicago Center,Compostable Packaging,Packaging,3.59,2.5629
+20251204,Atlanta South,Organic Cotton T-Shirt,Apparel,2.81,7.2412
+20251204,Atlanta South,Recycled Plastic Bottle,Beverage,18.37,6.2546
+20251204,Atlanta South,Bamboo Cutting Board,Kitchen,-2.32,2.2558
+20251204,Atlanta South,Solar Phone Charger,Electronics,3.48,30.9774
+20251204,Atlanta South,Compostable Packaging,Packaging,11.65,7.5503
+20251205,Seattle Hub,Organic Cotton T-Shirt,Apparel,12.87,35.7476
+20251205,Seattle Hub,Recycled Plastic Bottle,Beverage,4.82,1.2689
+20251205,Seattle Hub,Bamboo Cutting Board,Kitchen,16.24,18.5378
+20251205,Seattle Hub,Solar Phone Charger,Electronics,2.12,15.4523
+20251205,Seattle Hub,Compostable Packaging,Packaging,17.41,11.7604
+20251205,Portland DC,Organic Cotton T-Shirt,Apparel,3.27,7.3967
+20251205,Portland DC,Recycled Plastic Bottle,Beverage,16.97,5.9315
+20251205,Portland DC,Bamboo Cutting Board,Kitchen,16.01,18.5491
+20251205,Portland DC,Solar Phone Charger,Electronics,4.6,37.8473
+20251205,Portland DC,Compostable Packaging,Packaging,9.29,6.4245
+20251205,Chicago Center,Organic Cotton T-Shirt,Apparel,13.36,35.153
+20251205,Chicago Center,Recycled Plastic Bottle,Beverage,7.18,2.022
+20251205,Chicago Center,Bamboo Cutting Board,Kitchen,0.6,0.7263
+20251205,Chicago Center,Solar Phone Charger,Electronics,12.32,106.226
+20251205,Chicago Center,Compostable Packaging,Packaging,4.72,3.5719
+20251205,Atlanta South,Organic Cotton T-Shirt,Apparel,3.2,6.667
+20251205,Atlanta South,Recycled Plastic Bottle,Beverage,5.84,1.5412
+20251205,Atlanta South,Bamboo Cutting Board,Kitchen,13.21,15.643
+20251205,Atlanta South,Solar Phone Charger,Electronics,18.95,188.2869
+20251205,Atlanta South,Compostable Packaging,Packaging,17.0,14.7826
+20251206,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.97,41.3236
+20251206,Seattle Hub,Recycled Plastic Bottle,Beverage,14.58,4.2576
+20251206,Seattle Hub,Bamboo Cutting Board,Kitchen,5.8,6.4554
+20251206,Seattle Hub,Solar Phone Charger,Electronics,4.39,35.1196
+20251206,Seattle Hub,Compostable Packaging,Packaging,9.26,8.562
+20251206,Portland DC,Organic Cotton T-Shirt,Apparel,8.49,22.107
+20251206,Portland DC,Recycled Plastic Bottle,Beverage,10.84,3.1197
+20251206,Portland DC,Bamboo Cutting Board,Kitchen,8.87,9.3068
+20251206,Portland DC,Solar Phone Charger,Electronics,7.75,
+20251206,Portland DC,Compostable Packaging,Packaging,13.92,12.1017
+20251206,Chicago Center,Organic Cotton T-Shirt,Apparel,6.77,15.115
+20251206,Chicago Center,Recycled Plastic Bottle,Beverage,4.64,1.2347
+20251206,Chicago Center,Bamboo Cutting Board,Kitchen,18.95,25.5364
+20251206,Chicago Center,Solar Phone Charger,Electronics,13.1,119.4622
+20251206,Chicago Center,Compostable Packaging,Packaging,4.36,2.8597
+20251206,Atlanta South,Organic Cotton T-Shirt,Apparel,5.85,12.3977
+20251206,Atlanta South,Recycled Plastic Bottle,Beverage,12.03,3.2285
+20251206,Atlanta South,Bamboo Cutting Board,Kitchen,-15.77,19.4975
+20251206,Atlanta South,Solar Phone Charger,Electronics,3.06,30.8671
+20251206,Atlanta South,Compostable Packaging,Packaging,-10.79,8.0705
+20251207,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.68,40.2835
+20251207,Seattle Hub,Recycled Plastic Bottle,Beverage,7.24,1.8069
+20251207,Seattle Hub,Bamboo Cutting Board,Kitchen,1.42,1.5666
+20251207,Seattle Hub,Solar Phone Charger,Electronics,13.0,128.6429
+20251207,Seattle Hub,Compostable Packaging,Packaging,2.5,1.7792
+20251207,Portland DC,Organic Cotton T-Shirt,Apparel,19.87,56.8558
+20251207,Portland DC,Recycled Plastic Bottle,Beverage,2.22,0.7257
+20251207,Portland DC,Bamboo Cutting Board,Kitchen,10.98,10.5668
+20251207,Portland DC,Solar Phone Charger,Electronics,17.72,123.0913
+20251207,Portland DC,Compostable Packaging,Packaging,5.64,4.8512
+20251207,Chicago Center,Organic Cotton T-Shirt,Apparel,14.12,41.299
+20251207,Chicago Center,Recycled Plastic Bottle,Beverage,6.73,1.7347
+20251207,Chicago Center,Bamboo Cutting Board,Kitchen,17.96,22.7322
+20251207,Chicago Center,Solar Phone Charger,Electronics,5.19,43.7255
+20251207,Chicago Center,Compostable Packaging,Packaging,15.57,12.3698
+20251207,Atlanta South,Organic Cotton T-Shirt,Apparel,14.37,33.8127
+20251207,Atlanta South,Recycled Plastic Bottle,Beverage,13.12,4.4963
+20251207,Atlanta South,Bamboo Cutting Board,Kitchen,10.14,10.7686
+20251207,Atlanta South,Solar Phone Charger,Electronics,8.01,67.7485
+20251207,Atlanta South,Compostable Packaging,Packaging,15.35,12.3484
+20251208,Seattle Hub,Organic Cotton T-Shirt,Apparel,14.32,38.0237
+20251208,Seattle Hub,Recycled Plastic Bottle,Beverage,3.04,1.064
+20251208,Seattle Hub,Bamboo Cutting Board,Kitchen,12.6,13.3239
+20251208,Seattle Hub,Solar Phone Charger,Electronics,8.75,79.9164
+20251208,Seattle Hub,Compostable Packaging,Packaging,2.49,1.9609
+20251208,Portland DC,Organic Cotton T-Shirt,Apparel,0.82,2.0179
+20251208,Portland DC,Recycled Plastic Bottle,Beverage,10.85,3.0622
+20251208,Portland DC,Bamboo Cutting Board,Kitchen,7.41,7.8679
+20251208,Portland DC,Solar Phone Charger,Electronics,7.01,58.1869
+20251208,Portland DC,Compostable Packaging,Packaging,7.96,7.4583
+20251208,Chicago Center,Organic Cotton T-Shirt,Apparel,3.94,8.9671
+20251208,Chicago Center,Recycled Plastic Bottle,Beverage,2.63,0.6469
+20251208,Chicago Center,Bamboo Cutting Board,Kitchen,2.75,3.8215
+20251208,Chicago Center,Solar Phone Charger,Electronics,10.88,84.1738
+20251208,Chicago Center,Compostable Packaging,Packaging,8.39,6.4244
+20251208,Atlanta South,Organic Cotton T-Shirt,Apparel,13.99,34.9075
+20251208,Atlanta South,Recycled Plastic Bottle,Beverage,12.92,
+20251208,Atlanta South,Bamboo Cutting Board,Kitchen,4.11,5.7365
+20251208,Atlanta South,Solar Phone Charger,Electronics,17.12,156.4594
+20251208,Atlanta South,Compostable Packaging,Packaging,3.75,2.7986
+20251209,Seattle Hub,Organic Cotton T-Shirt,Apparel,13.49,32.7527
+20251209,Seattle Hub,Recycled Plastic Bottle,Beverage,17.68,
+20251209,Seattle Hub,Bamboo Cutting Board,Kitchen,-7.37,8.7514
+20251209,Seattle Hub,Solar Phone Charger,Electronics,-9.72,67.589
+20251209,Seattle Hub,Compostable Packaging,Packaging,6.17,4.3995
+20251209,Portland DC,Organic Cotton T-Shirt,Apparel,15.62,32.8019
+20251209,Portland DC,Recycled Plastic Bottle,Beverage,10.07,2.8407
+20251209,Portland DC,Bamboo Cutting Board,Kitchen,5.44,6.4203
+20251209,Portland DC,Solar Phone Charger,Electronics,7.01,60.01
+20251209,Portland DC,Compostable Packaging,Packaging,16.95,13.4751
+20251209,Chicago Center,Organic Cotton T-Shirt,Apparel,12.98,27.8797
+20251209,Chicago Center,Recycled Plastic Bottle,Beverage,19.88,5.6233
+20251209,Chicago Center,Bamboo Cutting Board,Kitchen,14.07,16.4161
+20251209,Chicago Center,Solar Phone Charger,Electronics,18.45,149.158
+20251209,Chicago Center,Compostable Packaging,Packaging,12.72,10.3588
+20251209,Atlanta South,Organic Cotton T-Shirt,Apparel,17.58,38.2357
+20251209,Atlanta South,Recycled Plastic Bottle,Beverage,6.96,2.1625
+20251209,Atlanta South,Bamboo Cutting Board,Kitchen,4.22,5.2251
+20251209,Atlanta South,Solar Phone Charger,Electronics,2.9,27.562
+20251209,Atlanta South,Compostable Packaging,Packaging,-7.27,4.9091
+20251210,Seattle Hub,Organic Cotton T-Shirt,Apparel,3.37,9.0347
+20251210,Seattle Hub,Recycled Plastic Bottle,Beverage,11.38,2.9533
+20251210,Seattle Hub,Bamboo Cutting Board,Kitchen,6.25,7.3616
+20251210,Seattle Hub,Solar Phone Charger,Electronics,-2.91,24.6199
+20251210,Seattle Hub,Compostable Packaging,Packaging,16.77,11.0006
+20251210,Portland DC,Organic Cotton T-Shirt,Apparel,15.81,39.5565
+20251210,Portland DC,Recycled Plastic Bottle,Beverage,19.1,6.2186
+20251210,Portland DC,Bamboo Cutting Board,Kitchen,8.92,12.4948
+20251210,Portland DC,Solar Phone Charger,Electronics,18.69,142.8977
+20251210,Portland DC,Compostable Packaging,Packaging,8.28,7.6949
+20251210,Chicago Center,Organic Cotton T-Shirt,Apparel,12.14,26.3839
+20251210,Chicago Center,Recycled Plastic Bottle,Beverage,16.19,4.156
+20251210,Chicago Center,Bamboo Cutting Board,Kitchen,8.62,9.1007
+20251210,Chicago Center,Solar Phone Charger,Electronics,18.58,155.476
+20251210,Chicago Center,Compostable Packaging,Packaging,16.76,11.2415
+20251210,Atlanta South,Organic Cotton T-Shirt,Apparel,10.32,27.7109
+20251210,Atlanta South,Recycled Plastic Bottle,Beverage,9.6,3.4116
+20251210,Atlanta South,Bamboo Cutting Board,Kitchen,1.02,1.3546
+20251210,Atlanta South,Solar Phone Charger,Electronics,18.18,172.2473
+20251210,Atlanta South,Compostable Packaging,Packaging,12.61,11.7017
+20251211,Seattle Hub,Organic Cotton T-Shirt,Apparel,16.98,36.0984
+20251211,Seattle Hub,Recycled Plastic Bottle,Beverage,15.38,4.6472
+20251211,Seattle Hub,Bamboo Cutting Board,Kitchen,5.77,8.2705
+20251211,Seattle Hub,Solar Phone Charger,Electronics,16.53,144.183
+20251211,Seattle Hub,Compostable Packaging,Packaging,2.87,2.3737
+20251211,Portland DC,Organic Cotton T-Shirt,Apparel,14.18,35.6806
+20251211,Portland DC,Recycled Plastic Bottle,Beverage,3.16,1.0978
+20251211,Portland DC,Bamboo Cutting Board,Kitchen,12.75,16.6411
+20251211,Portland DC,Solar Phone Charger,Electronics,12.66,94.7269
+20251211,Portland DC,Compostable Packaging,Packaging,17.66,14.24
+20251211,Chicago Center,Organic Cotton T-Shirt,Apparel,0.98,2.4557
+20251211,Chicago Center,Recycled Plastic Bottle,Beverage,6.35,1.8926
+20251211,Chicago Center,Bamboo Cutting Board,Kitchen,17.03,18.4764
+20251211,Chicago Center,Solar Phone Charger,Electronics,13.33,96.2275
+20251211,Chicago Center,Compostable Packaging,Packaging,3.26,2.8632
+20251211,Atlanta South,Organic Cotton T-Shirt,Apparel,14.14,31.113
+20251211,Atlanta South,Recycled Plastic Bottle,Beverage,2.45,0.7611
+20251211,Atlanta South,Bamboo Cutting Board,Kitchen,8.02,10.7783
+20251211,Atlanta South,Solar Phone Charger,Electronics,3.39,26.3187
+20251211,Atlanta South,Compostable Packaging,Packaging,11.82,7.6937
+20251212,Seattle Hub,Organic Cotton T-Shirt,Apparel,9.17,26.6674
+20251212,Seattle Hub,Recycled Plastic Bottle,Beverage,-17.71,5.2245
+20251212,Seattle Hub,Bamboo Cutting Board,Kitchen,10.26,14.09
+20251212,Seattle Hub,Solar Phone Charger,Electronics,10.74,91.7664
+20251212,Seattle Hub,Compostable Packaging,Packaging,13.29,10.9006
+20251212,Portland DC,Organic Cotton T-Shirt,Apparel,3.23,8.9954
+20251212,Portland DC,Recycled Plastic Bottle,Beverage,1.83,0.6235
+20251212,Portland DC,Bamboo Cutting Board,Kitchen,12.31,12.8834
+20251212,Portland DC,Solar Phone Charger,Electronics,13.35,102.5463
+20251212,Portland DC,Compostable Packaging,Packaging,11.82,9.7756
+20251212,Chicago Center,Organic Cotton T-Shirt,Apparel,1.08,2.9515
+20251212,Chicago Center,Recycled Plastic Bottle,Beverage,10.24,3.2924
+20251212,Chicago Center,Bamboo Cutting Board,Kitchen,15.55,21.7745
+20251212,Chicago Center,Solar Phone Charger,Electronics,17.67,163.9026
+20251212,Chicago Center,Compostable Packaging,Packaging,18.49,12.2
+20251212,Atlanta South,Organic Cotton T-Shirt,Apparel,15.12,36.9159
+20251212,Atlanta South,Recycled Plastic Bottle,Beverage,1.07,0.2792
+20251212,Atlanta South,Bamboo Cutting Board,Kitchen,3.1,3.9244
+20251212,Atlanta South,Solar Phone Charger,Electronics,10.08,91.8095
+20251212,Atlanta South,Compostable Packaging,Packaging,8.96,7.2498
+20251213,Seattle Hub,Organic Cotton T-Shirt,Apparel,0.97,2.871
+20251213,Seattle Hub,Recycled Plastic Bottle,Beverage,3.24,0.7796
+20251213,Seattle Hub,Bamboo Cutting Board,Kitchen,17.36,19.5047
+20251213,Seattle Hub,Solar Phone Charger,Electronics,14.7,126.3572
+20251213,Seattle Hub,Compostable Packaging,Packaging,16.64,13.3165
+20251213,Portland DC,Organic Cotton T-Shirt,Apparel,17.14,48.0194
+20251213,Portland DC,Recycled Plastic Bottle,Beverage,17.54,5.4076
+20251213,Portland DC,Bamboo Cutting Board,Kitchen,2.47,2.9625
+20251213,Portland DC,Solar Phone Charger,Electronics,0.94,9.017
+20251213,Portland DC,Compostable Packaging,Packaging,8.11,6.1192
+20251213,Chicago Center,Organic Cotton T-Shirt,Apparel,6.12,15.5107
+20251213,Chicago Center,Recycled Plastic Bottle,Beverage,12.42,3.4462
+20251213,Chicago Center,Bamboo Cutting Board,Kitchen,17.89,22.1788
+20251213,Chicago Center,Solar Phone Charger,Electronics,13.24,91.4849
+20251213,Chicago Center,Compostable Packaging,Packaging,17.82,11.7435
+20251213,Atlanta South,Organic Cotton T-Shirt,Apparel,6.93,19.1084
+20251213,Atlanta South,Recycled Plastic Bottle,Beverage,10.12,3.4072
+20251213,Atlanta South,Bamboo Cutting Board,Kitchen,16.78,22.6126
+20251213,Atlanta South,Solar Phone Charger,Electronics,8.62,80.2831
+20251213,Atlanta South,Compostable Packaging,Packaging,9.84,6.7053
+20251214,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.18,22.653
+20251214,Seattle Hub,Recycled Plastic Bottle,Beverage,15.74,5.433
+20251214,Seattle Hub,Bamboo Cutting Board,Kitchen,1.01,1.3486
+20251214,Seattle Hub,Solar Phone Charger,Electronics,-7.9,72.0814
+20251214,Seattle Hub,Compostable Packaging,Packaging,8.05,6.1237
+20251214,Portland DC,Organic Cotton T-Shirt,Apparel,11.22,23.7368
+20251214,Portland DC,Recycled Plastic Bottle,Beverage,18.12,5.1137
+20251214,Portland DC,Bamboo Cutting Board,Kitchen,-5.14,5.1614
+20251214,Portland DC,Solar Phone Charger,Electronics,15.18,144.9128
+20251214,Portland DC,Compostable Packaging,Packaging,16.13,14.8306
+20251214,Chicago Center,Organic Cotton T-Shirt,Apparel,1.6,3.9017
+20251214,Chicago Center,Recycled Plastic Bottle,Beverage,12.25,4.2489
+20251214,Chicago Center,Bamboo Cutting Board,Kitchen,8.26,10.5368
+20251214,Chicago Center,Solar Phone Charger,Electronics,18.8,140.9986
+20251214,Chicago Center,Compostable Packaging,Packaging,18.0,16.4665
+20251214,Atlanta South,Organic Cotton T-Shirt,Apparel,7.66,19.5438
+20251214,Atlanta South,Recycled Plastic Bottle,Beverage,17.91,4.9837
+20251214,Atlanta South,Bamboo Cutting Board,Kitchen,7.26,8.4013
+20251214,Atlanta South,Solar Phone Charger,Electronics,2.03,20.099
+20251214,Atlanta South,Compostable Packaging,Packaging,6.45,5.2693
+20251215,Seattle Hub,Organic Cotton T-Shirt,Apparel,15.86,32.2889
+20251215,Seattle Hub,Recycled Plastic Bottle,Beverage,15.4,5.4572
+20251215,Seattle Hub,Bamboo Cutting Board,Kitchen,5.77,7.1684
+20251215,Seattle Hub,Solar Phone Charger,Electronics,1.66,16.1112
+20251215,Seattle Hub,Compostable Packaging,Packaging,7.96,6.2254
+20251215,Portland DC,Organic Cotton T-Shirt,Apparel,13.37,33.8594
+20251215,Portland DC,Recycled Plastic Bottle,Beverage,15.38,5.4209
+20251215,Portland DC,Bamboo Cutting Board,Kitchen,7.06,9.5841
+20251215,Portland DC,Solar Phone Charger,Electronics,4.72,32.5348
+20251215,Portland DC,Compostable Packaging,Packaging,17.38,15.4758
+20251215,Chicago Center,Organic Cotton T-Shirt,Apparel,16.24,41.4655
+20251215,Chicago Center,Recycled Plastic Bottle,Beverage,6.1,2.1893
+20251215,Chicago Center,Bamboo Cutting Board,Kitchen,14.52,19.2989
+20251215,Chicago Center,Solar Phone Charger,Electronics,9.61,97.7806
+20251215,Chicago Center,Compostable Packaging,Packaging,5.97,5.1248
+20251215,Atlanta South,Organic Cotton T-Shirt,Apparel,15.54,35.6771
+20251215,Atlanta South,Recycled Plastic Bottle,Beverage,5.85,1.5927
+20251215,Atlanta South,Bamboo Cutting Board,Kitchen,15.55,15.0201
+20251215,Atlanta South,Solar Phone Charger,Electronics,16.8,162.6545
+20251215,Atlanta South,Compostable Packaging,Packaging,0.67,0.4367
+20251216,Seattle Hub,Organic Cotton T-Shirt,Apparel,11.35,27.3377
+20251216,Seattle Hub,Recycled Plastic Bottle,Beverage,17.99,5.5081
+20251216,Seattle Hub,Bamboo Cutting Board,Kitchen,5.53,7.3971
+20251216,Seattle Hub,Solar Phone Charger,Electronics,4.93,36.4489
+20251216,Seattle Hub,Compostable Packaging,Packaging,5.04,4.2813
+20251216,Portland DC,Organic Cotton T-Shirt,Apparel,9.09,21.0646
+20251216,Portland DC,Recycled Plastic Bottle,Beverage,19.06,6.8432
+20251216,Portland DC,Bamboo Cutting Board,Kitchen,16.98,23.2238
+20251216,Portland DC,Solar Phone Charger,Electronics,5.08,36.4295
+20251216,Portland DC,Compostable Packaging,Packaging,2.01,1.4176
+20251216,Chicago Center,Organic Cotton T-Shirt,Apparel,13.78,28.5438
+20251216,Chicago Center,Recycled Plastic Bottle,Beverage,0.98,0.3066
+20251216,Chicago Center,Bamboo Cutting Board,Kitchen,18.0,20.5175
+20251216,Chicago Center,Solar Phone Charger,Electronics,1.11,8.938
+20251216,Chicago Center,Compostable Packaging,Packaging,12.03,8.1082
+20251216,Atlanta South,Organic Cotton T-Shirt,Apparel,14.46,39.6499
+20251216,Atlanta South,Recycled Plastic Bottle,Beverage,18.83,5.3752
+20251216,Atlanta South,Bamboo Cutting Board,Kitchen,3.43,4.5484
+20251216,Atlanta South,Solar Phone Charger,Electronics,19.19,195.2369
+20251216,Atlanta South,Compostable Packaging,Packaging,12.79,11.1895
+20251217,Seattle Hub,Organic Cotton T-Shirt,Apparel,17.63,49.3324
+20251217,Seattle Hub,Recycled Plastic Bottle,Beverage,10.65,2.961
+20251217,Seattle Hub,Bamboo Cutting Board,Kitchen,18.27,20.4216
+20251217,Seattle Hub,Solar Phone Charger,Electronics,5.0,39.3519
+20251217,Seattle Hub,Compostable Packaging,Packaging,9.18,8.6883
+20251217,Portland DC,Organic Cotton T-Shirt,Apparel,11.43,23.7338
+20251217,Portland DC,Recycled Plastic Bottle,Beverage,4.99,1.6684
+20251217,Portland DC,Bamboo Cutting Board,Kitchen,19.74,27.7218
+20251217,Portland DC,Solar Phone Charger,Electronics,13.65,123.7245
+20251217,Portland DC,Compostable Packaging,Packaging,7.16,4.8527
+20251217,Chicago Center,Organic Cotton T-Shirt,Apparel,3.39,8.4553
+20251217,Chicago Center,Recycled Plastic Bottle,Beverage,4.01,1.1809
+20251217,Chicago Center,Bamboo Cutting Board,Kitchen,15.43,20.0816
+20251217,Chicago Center,Solar Phone Charger,Electronics,17.45,168.1328
+20251217,Chicago Center,Compostable Packaging,Packaging,1.92,1.5452
+20251217,Atlanta South,Organic Cotton T-Shirt,Apparel,8.74,18.5939
+20251217,Atlanta South,Recycled Plastic Bottle,Beverage,6.22,1.7442
+20251217,Atlanta South,Bamboo Cutting Board,Kitchen,12.37,12.5151
+20251217,Atlanta South,Solar Phone Charger,Electronics,18.45,185.0484
+20251217,Atlanta South,Compostable Packaging,Packaging,14.94,11.6445
+20251218,Seattle Hub,Organic Cotton T-Shirt,Apparel,14.8,40.3109
+20251218,Seattle Hub,Recycled Plastic Bottle,Beverage,-10.43,2.6938
+20251218,Seattle Hub,Bamboo Cutting Board,Kitchen,13.64,16.0637
+20251218,Seattle Hub,Solar Phone Charger,Electronics,14.59,113.0669
+20251218,Seattle Hub,Compostable Packaging,Packaging,10.12,6.6332
+20251218,Portland DC,Organic Cotton T-Shirt,Apparel,10.41,30.4809
+20251218,Portland DC,Recycled Plastic Bottle,Beverage,15.27,5.412
+20251218,Portland DC,Bamboo Cutting Board,Kitchen,17.71,23.2156
+20251218,Portland DC,Solar Phone Charger,Electronics,17.65,138.8852
+20251218,Portland DC,Compostable Packaging,Packaging,6.11,4.8619
+20251218,Chicago Center,Organic Cotton T-Shirt,Apparel,18.81,42.4999
+20251218,Chicago Center,Recycled Plastic Bottle,Beverage,5.02,1.3726
+20251218,Chicago Center,Bamboo Cutting Board,Kitchen,10.42,10.8477
+20251218,Chicago Center,Solar Phone Charger,Electronics,17.87,154.1987
+20251218,Chicago Center,Compostable Packaging,Packaging,16.54,12.5415
+20251218,Atlanta South,Organic Cotton T-Shirt,Apparel,8.82,21.5634
+20251218,Atlanta South,Recycled Plastic Bottle,Beverage,18.4,5.9975
+20251218,Atlanta South,Bamboo Cutting Board,Kitchen,17.83,21.3383
+20251218,Atlanta South,Solar Phone Charger,Electronics,5.93,53.8066
+20251218,Atlanta South,Compostable Packaging,Packaging,15.01,10.6748
+20251219,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.04,17.2724
+20251219,Seattle Hub,Recycled Plastic Bottle,Beverage,1.94,0.6258
+20251219,Seattle Hub,Bamboo Cutting Board,Kitchen,2.46,3.1942
+20251219,Seattle Hub,Solar Phone Charger,Electronics,11.38,109.7938
+20251219,Seattle Hub,Compostable Packaging,Packaging,12.73,9.149
+20251219,Portland DC,Organic Cotton T-Shirt,Apparel,4.79,10.5173
+20251219,Portland DC,Recycled Plastic Bottle,Beverage,4.15,1.2434
+20251219,Portland DC,Bamboo Cutting Board,Kitchen,2.23,2.6935
+20251219,Portland DC,Solar Phone Charger,Electronics,8.97,75.9611
+20251219,Portland DC,Compostable Packaging,Packaging,1.26,1.0838
+20251219,Chicago Center,Organic Cotton T-Shirt,Apparel,5.08,11.9314
+20251219,Chicago Center,Recycled Plastic Bottle,Beverage,17.62,6.0064
+20251219,Chicago Center,Bamboo Cutting Board,Kitchen,10.06,12.6999
+20251219,Chicago Center,Solar Phone Charger,Electronics,6.26,47.2277
+20251219,Chicago Center,Compostable Packaging,Packaging,15.4,11.9238
+20251219,Atlanta South,Organic Cotton T-Shirt,Apparel,8.78,19.107
+20251219,Atlanta South,Recycled Plastic Bottle,Beverage,7.28,2.095
+20251219,Atlanta South,Bamboo Cutting Board,Kitchen,16.88,23.2053
+20251219,Atlanta South,Solar Phone Charger,Electronics,1.06,8.1736
+20251219,Atlanta South,Compostable Packaging,Packaging,8.48,6.9529
+20251220,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.52,23.9329
+20251220,Seattle Hub,Recycled Plastic Bottle,Beverage,1.57,0.4683
+20251220,Seattle Hub,Bamboo Cutting Board,Kitchen,1.39,1.6331
+20251220,Seattle Hub,Solar Phone Charger,Electronics,10.95,103.4827
+20251220,Seattle Hub,Compostable Packaging,Packaging,12.41,8.4555
+20251220,Portland DC,Organic Cotton T-Shirt,Apparel,0.91,2.1651
+20251220,Portland DC,Recycled Plastic Bottle,Beverage,7.38,2.4496
+20251220,Portland DC,Bamboo Cutting Board,Kitchen,4.6,5.5983
+20251220,Portland DC,Solar Phone Charger,Electronics,8.21,75.8652
+20251220,Portland DC,Compostable Packaging,Packaging,7.79,6.0161
+20251220,Chicago Center,Organic Cotton T-Shirt,Apparel,0.77,2.191
+20251220,Chicago Center,Recycled Plastic Bottle,Beverage,10.28,3.4434
+20251220,Chicago Center,Bamboo Cutting Board,Kitchen,0.97,1.2253
+20251220,Chicago Center,Solar Phone Charger,Electronics,15.12,144.6105
+20251220,Chicago Center,Compostable Packaging,Packaging,16.46,15.1517
+20251220,Atlanta South,Organic Cotton T-Shirt,Apparel,10.34,27.9541
+20251220,Atlanta South,Recycled Plastic Bottle,Beverage,14.98,4.569
+20251220,Atlanta South,Bamboo Cutting Board,Kitchen,11.97,13.7384
+20251220,Atlanta South,Solar Phone Charger,Electronics,15.8,130.2792
+20251220,Atlanta South,Compostable Packaging,Packaging,9.45,6.3494
+20251221,Seattle Hub,Organic Cotton T-Shirt,Apparel,7.84,19.0476
+20251221,Seattle Hub,Recycled Plastic Bottle,Beverage,5.93,1.6256
+20251221,Seattle Hub,Bamboo Cutting Board,Kitchen,7.96,11.4362
+20251221,Seattle Hub,Solar Phone Charger,Electronics,15.37,141.8585
+20251221,Seattle Hub,Compostable Packaging,Packaging,0.99,0.8779
+20251221,Portland DC,Organic Cotton T-Shirt,Apparel,2.62,6.0538
+20251221,Portland DC,Recycled Plastic Bottle,Beverage,2.13,0.6546
+20251221,Portland DC,Bamboo Cutting Board,Kitchen,12.07,12.0732
+20251221,Portland DC,Solar Phone Charger,Electronics,10.71,103.403
+20251221,Portland DC,Compostable Packaging,Packaging,10.12,7.8106
+20251221,Chicago Center,Organic Cotton T-Shirt,Apparel,1.21,3.2537
+20251221,Chicago Center,Recycled Plastic Bottle,Beverage,5.73,1.5191
+20251221,Chicago Center,Bamboo Cutting Board,Kitchen,10.25,14.5606
+20251221,Chicago Center,Solar Phone Charger,Electronics,9.92,86.1685
+20251221,Chicago Center,Compostable Packaging,Packaging,18.46,14.3291
+20251221,Atlanta South,Organic Cotton T-Shirt,Apparel,0.77,1.9404
+20251221,Atlanta South,Recycled Plastic Bottle,Beverage,17.46,4.4286
+20251221,Atlanta South,Bamboo Cutting Board,Kitchen,12.71,15.402
+20251221,Atlanta South,Solar Phone Charger,Electronics,8.65,59.0923
+20251221,Atlanta South,Compostable Packaging,Packaging,14.54,13.4011
+20251222,Seattle Hub,Organic Cotton T-Shirt,Apparel,17.85,45.764
+20251222,Seattle Hub,Recycled Plastic Bottle,Beverage,13.86,4.6616
+20251222,Seattle Hub,Bamboo Cutting Board,Kitchen,12.29,14.5835
+20251222,Seattle Hub,Solar Phone Charger,Electronics,15.06,153.4167
+20251222,Seattle Hub,Compostable Packaging,Packaging,14.44,11.4313
+20251222,Portland DC,Organic Cotton T-Shirt,Apparel,-9.67,28.9453
+20251222,Portland DC,Recycled Plastic Bottle,Beverage,4.39,1.103
+20251222,Portland DC,Bamboo Cutting Board,Kitchen,12.69,15.8033
+20251222,Portland DC,Solar Phone Charger,Electronics,-17.73,141.3587
+20251222,Portland DC,Compostable Packaging,Packaging,6.04,5.6274
+20251222,Chicago Center,Organic Cotton T-Shirt,Apparel,7.66,21.1951
+20251222,Chicago Center,Recycled Plastic Bottle,Beverage,13.01,3.4387
+20251222,Chicago Center,Bamboo Cutting Board,Kitchen,4.72,4.9352
+20251222,Chicago Center,Solar Phone Charger,Electronics,10.69,96.129
+20251222,Chicago Center,Compostable Packaging,Packaging,17.14,14.2867
+20251222,Atlanta South,Organic Cotton T-Shirt,Apparel,12.51,
+20251222,Atlanta South,Recycled Plastic Bottle,Beverage,5.02,1.3352
+20251222,Atlanta South,Bamboo Cutting Board,Kitchen,-3.29,3.9093
+20251222,Atlanta South,Solar Phone Charger,Electronics,19.41,141.0275
+20251222,Atlanta South,Compostable Packaging,Packaging,9.7,7.1471
+20251223,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.17,22.6629
+20251223,Seattle Hub,Recycled Plastic Bottle,Beverage,16.85,4.6849
+20251223,Seattle Hub,Bamboo Cutting Board,Kitchen,4.67,4.8556
+20251223,Seattle Hub,Solar Phone Charger,Electronics,3.29,27.263
+20251223,Seattle Hub,Compostable Packaging,Packaging,5.39,3.657
+20251223,Portland DC,Organic Cotton T-Shirt,Apparel,3.97,11.3786
+20251223,Portland DC,Recycled Plastic Bottle,Beverage,7.25,2.1089
+20251223,Portland DC,Bamboo Cutting Board,Kitchen,18.45,19.4034
+20251223,Portland DC,Solar Phone Charger,Electronics,19.91,148.6449
+20251223,Portland DC,Compostable Packaging,Packaging,11.93,8.8891
+20251223,Chicago Center,Organic Cotton T-Shirt,Apparel,10.3,20.7338
+20251223,Chicago Center,Recycled Plastic Bottle,Beverage,13.01,3.7442
+20251223,Chicago Center,Bamboo Cutting Board,Kitchen,5.85,5.7767
+20251223,Chicago Center,Solar Phone Charger,Electronics,14.5,121.8109
+20251223,Chicago Center,Compostable Packaging,Packaging,3.89,3.4231
+20251223,Atlanta South,Organic Cotton T-Shirt,Apparel,2.53,5.9949
+20251223,Atlanta South,Recycled Plastic Bottle,Beverage,14.26,3.7251
+20251223,Atlanta South,Bamboo Cutting Board,Kitchen,16.76,17.0504
+20251223,Atlanta South,Solar Phone Charger,Electronics,6.63,64.4226
+20251223,Atlanta South,Compostable Packaging,Packaging,13.27,11.6243
+20251224,Seattle Hub,Organic Cotton T-Shirt,Apparel,18.04,52.2752
+20251224,Seattle Hub,Recycled Plastic Bottle,Beverage,-14.58,4.14
+20251224,Seattle Hub,Bamboo Cutting Board,Kitchen,8.62,11.038
+20251224,Seattle Hub,Solar Phone Charger,Electronics,15.35,112.0788
+20251224,Seattle Hub,Compostable Packaging,Packaging,1.37,1.1436
+20251224,Portland DC,Organic Cotton T-Shirt,Apparel,12.89,36.635
+20251224,Portland DC,Recycled Plastic Bottle,Beverage,11.43,2.9047
+20251224,Portland DC,Bamboo Cutting Board,Kitchen,2.18,3.0662
+20251224,Portland DC,Solar Phone Charger,Electronics,4.06,28.8009
+20251224,Portland DC,Compostable Packaging,Packaging,-0.89,0.6178
+20251224,Chicago Center,Organic Cotton T-Shirt,Apparel,9.48,27.2758
+20251224,Chicago Center,Recycled Plastic Bottle,Beverage,13.78,4.866
+20251224,Chicago Center,Bamboo Cutting Board,Kitchen,14.89,16.5135
+20251224,Chicago Center,Solar Phone Charger,Electronics,5.94,51.8035
+20251224,Chicago Center,Compostable Packaging,Packaging,5.82,4.0958
+20251224,Atlanta South,Organic Cotton T-Shirt,Apparel,9.07,18.9782
+20251224,Atlanta South,Recycled Plastic Bottle,Beverage,15.56,4.711
+20251224,Atlanta South,Bamboo Cutting Board,Kitchen,3.82,5.4085
+20251224,Atlanta South,Solar Phone Charger,Electronics,11.59,117.9719
+20251224,Atlanta South,Compostable Packaging,Packaging,13.8,10.1069
+20251225,Seattle Hub,Organic Cotton T-Shirt,Apparel,11.26,30.8877
+20251225,Seattle Hub,Recycled Plastic Bottle,Beverage,4.61,1.2271
+20251225,Seattle Hub,Bamboo Cutting Board,Kitchen,10.58,13.3618
+20251225,Seattle Hub,Solar Phone Charger,Electronics,6.8,59.2743
+20251225,Seattle Hub,Compostable Packaging,Packaging,6.79,4.5729
+20251225,Portland DC,Organic Cotton T-Shirt,Apparel,3.6,8.9118
+20251225,Portland DC,Recycled Plastic Bottle,Beverage,4.15,1.1743
+20251225,Portland DC,Bamboo Cutting Board,Kitchen,15.16,17.7482
+20251225,Portland DC,Solar Phone Charger,Electronics,14.04,130.3649
+20251225,Portland DC,Compostable Packaging,Packaging,14.61,12.1599
+20251225,Chicago Center,Organic Cotton T-Shirt,Apparel,1.28,3.7491
+20251225,Chicago Center,Recycled Plastic Bottle,Beverage,18.57,4.6971
+20251225,Chicago Center,Bamboo Cutting Board,Kitchen,11.76,14.6374
+20251225,Chicago Center,Solar Phone Charger,Electronics,6.36,56.1543
+20251225,Chicago Center,Compostable Packaging,Packaging,19.05,15.6545
+20251225,Atlanta South,Organic Cotton T-Shirt,Apparel,15.88,32.6143
+20251225,Atlanta South,Recycled Plastic Bottle,Beverage,3.26,0.9178
+20251225,Atlanta South,Bamboo Cutting Board,Kitchen,13.34,14.0896
+20251225,Atlanta South,Solar Phone Charger,Electronics,4.1,39.8372
+20251225,Atlanta South,Compostable Packaging,Packaging,3.51,
+20251226,Seattle Hub,Organic Cotton T-Shirt,Apparel,3.61,7.5807
+20251226,Seattle Hub,Recycled Plastic Bottle,Beverage,4.64,1.3766
+20251226,Seattle Hub,Bamboo Cutting Board,Kitchen,5.23,7.3227
+20251226,Seattle Hub,Solar Phone Charger,Electronics,18.74,152.911
+20251226,Seattle Hub,Compostable Packaging,Packaging,13.66,12.5571
+20251226,Portland DC,Organic Cotton T-Shirt,Apparel,7.26,19.3833
+20251226,Portland DC,Recycled Plastic Bottle,Beverage,17.77,4.6447
+20251226,Portland DC,Bamboo Cutting Board,Kitchen,10.28,9.8767
+20251226,Portland DC,Solar Phone Charger,Electronics,2.01,15.2403
+20251226,Portland DC,Compostable Packaging,Packaging,6.39,4.2795
+20251226,Chicago Center,Organic Cotton T-Shirt,Apparel,3.44,7.9502
+20251226,Chicago Center,Recycled Plastic Bottle,Beverage,5.59,1.9822
+20251226,Chicago Center,Bamboo Cutting Board,Kitchen,10.59,10.7074
+20251226,Chicago Center,Solar Phone Charger,Electronics,14.79,133.553
+20251226,Chicago Center,Compostable Packaging,Packaging,3.64,2.4796
+20251226,Atlanta South,Organic Cotton T-Shirt,Apparel,0.73,1.9373
+20251226,Atlanta South,Recycled Plastic Bottle,Beverage,1.56,0.454
+20251226,Atlanta South,Bamboo Cutting Board,Kitchen,16.24,22.6701
+20251226,Atlanta South,Solar Phone Charger,Electronics,14.38,139.0571
+20251226,Atlanta South,Compostable Packaging,Packaging,3.99,3.095
+20251227,Seattle Hub,Organic Cotton T-Shirt,Apparel,2.06,4.1343
+20251227,Seattle Hub,Recycled Plastic Bottle,Beverage,5.53,1.6689
+20251227,Seattle Hub,Bamboo Cutting Board,Kitchen,8.98,10.6241
+20251227,Seattle Hub,Solar Phone Charger,Electronics,9.47,66.0083
+20251227,Seattle Hub,Compostable Packaging,Packaging,8.8,7.5328
+20251227,Portland DC,Organic Cotton T-Shirt,Apparel,5.71,13.0944
+20251227,Portland DC,Recycled Plastic Bottle,Beverage,6.3,1.5389
+20251227,Portland DC,Bamboo Cutting Board,Kitchen,10.86,12.491
+20251227,Portland DC,Solar Phone Charger,Electronics,2.96,21.5837
+20251227,Portland DC,Compostable Packaging,Packaging,7.24,5.6948
+20251227,Chicago Center,Organic Cotton T-Shirt,Apparel,18.12,53.1327
+20251227,Chicago Center,Recycled Plastic Bottle,Beverage,1.29,0.3602
+20251227,Chicago Center,Bamboo Cutting Board,Kitchen,14.61,19.7233
+20251227,Chicago Center,Solar Phone Charger,Electronics,14.65,116.4445
+20251227,Chicago Center,Compostable Packaging,Packaging,8.31,5.8075
+20251227,Atlanta South,Organic Cotton T-Shirt,Apparel,14.98,31.1477
+20251227,Atlanta South,Recycled Plastic Bottle,Beverage,15.98,4.9299
+20251227,Atlanta South,Bamboo Cutting Board,Kitchen,11.01,14.7643
+20251227,Atlanta South,Solar Phone Charger,Electronics,11.68,87.9704
+20251227,Atlanta South,Compostable Packaging,Packaging,13.93,9.743
+20251228,Seattle Hub,Organic Cotton T-Shirt,Apparel,8.27,
+20251228,Seattle Hub,Recycled Plastic Bottle,Beverage,4.54,1.5157
+20251228,Seattle Hub,Bamboo Cutting Board,Kitchen,9.52,12.7504
+20251228,Seattle Hub,Solar Phone Charger,Electronics,4.88,44.9479
+20251228,Seattle Hub,Compostable Packaging,Packaging,14.7,12.2742
+20251228,Portland DC,Organic Cotton T-Shirt,Apparel,12.11,30.7771
+20251228,Portland DC,Recycled Plastic Bottle,Beverage,7.19,2.0014
+20251228,Portland DC,Bamboo Cutting Board,Kitchen,17.16,20.5836
+20251228,Portland DC,Solar Phone Charger,Electronics,8.11,66.2586
+20251228,Portland DC,Compostable Packaging,Packaging,2.03,1.6153
+20251228,Chicago Center,Organic Cotton T-Shirt,Apparel,15.09,38.1715
+20251228,Chicago Center,Recycled Plastic Bottle,Beverage,9.3,2.7536
+20251228,Chicago Center,Bamboo Cutting Board,Kitchen,12.67,15.5986
+20251228,Chicago Center,Solar Phone Charger,Electronics,15.15,117.6431
+20251228,Chicago Center,Compostable Packaging,Packaging,7.82,6.3501
+20251228,Atlanta South,Organic Cotton T-Shirt,Apparel,2.91,6.9716
+20251228,Atlanta South,Recycled Plastic Bottle,Beverage,6.14,2.1109
+20251228,Atlanta South,Bamboo Cutting Board,Kitchen,19.59,23.9788
+20251228,Atlanta South,Solar Phone Charger,Electronics,18.06,139.9323
+20251228,Atlanta South,Compostable Packaging,Packaging,13.45,11.5642
+20251229,Seattle Hub,Organic Cotton T-Shirt,Apparel,10.29,26.0595
+20251229,Seattle Hub,Recycled Plastic Bottle,Beverage,15.26,4.1866
+20251229,Seattle Hub,Bamboo Cutting Board,Kitchen,-17.53,20.195
+20251229,Seattle Hub,Solar Phone Charger,Electronics,15.38,138.8975
+20251229,Seattle Hub,Compostable Packaging,Packaging,11.81,9.1385
+20251229,Portland DC,Organic Cotton T-Shirt,Apparel,1.07,2.3799
+20251229,Portland DC,Recycled Plastic Bottle,Beverage,2.07,0.6385
+20251229,Portland DC,Bamboo Cutting Board,Kitchen,12.39,12.8844
+20251229,Portland DC,Solar Phone Charger,Electronics,19.06,131.0803
+20251229,Portland DC,Compostable Packaging,Packaging,8.09,6.5013
+20251229,Chicago Center,Organic Cotton T-Shirt,Apparel,9.43,25.6785
+20251229,Chicago Center,Recycled Plastic Bottle,Beverage,14.4,3.8012
+20251229,Chicago Center,Bamboo Cutting Board,Kitchen,1.1,1.361
+20251229,Chicago Center,Solar Phone Charger,Electronics,9.15,69.745
+20251229,Chicago Center,Compostable Packaging,Packaging,13.01,11.6723
+20251229,Atlanta South,Organic Cotton T-Shirt,Apparel,18.22,40.9014
+20251229,Atlanta South,Recycled Plastic Bottle,Beverage,15.1,4.8598
+20251229,Atlanta South,Bamboo Cutting Board,Kitchen,9.67,11.0717
+20251229,Atlanta South,Solar Phone Charger,Electronics,17.73,152.956
+20251229,Atlanta South,Compostable Packaging,Packaging,19.79,17.1921
